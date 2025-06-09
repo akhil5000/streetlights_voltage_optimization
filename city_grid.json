@@ -1,0 +1,5139 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "A1"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "A2"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "A3"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "A4"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "A5"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "A6"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "A7"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.3,
+      "id": "A8"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "A9"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "A10"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.22,
+      "id": "A11"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "A12"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "A13"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.07,
+      "id": "A14"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "A15"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "B1"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "B2"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.11,
+      "id": "B3"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "B4"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "B5"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.07,
+      "id": "B6"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.17,
+      "id": "B7"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "B8"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.17,
+      "id": "B9"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "B10"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.22,
+      "id": "B11"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "B12"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "B13"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.06,
+      "id": "B14"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.22,
+      "id": "B15"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C1"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C2"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C3"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C4"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.18,
+      "id": "C5"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C6"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C7"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C8"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C9"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C10"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C11"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C12"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.07,
+      "id": "C13"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C14"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "C15"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.13,
+      "id": "D1"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.26,
+      "id": "D2"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.09,
+      "id": "D3"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.28,
+      "id": "D4"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "D5"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "D6"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "D7"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "D8"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "D9"
+    },
+    {
+      "zone": "park",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "D10"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.22,
+      "id": "D11"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.15,
+      "id": "D12"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.17,
+      "id": "D13"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.2,
+      "id": "D14"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.17,
+      "id": "D15"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.14,
+      "id": "E1"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "E2"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.06,
+      "id": "E3"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.13,
+      "id": "E4"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "E5"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "E6"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "E7"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.27,
+      "id": "E8"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "E9"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.19,
+      "id": "E10"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.06,
+      "id": "E11"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.08,
+      "id": "E12"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "E13"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.23,
+      "id": "E14"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.15,
+      "id": "E15"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.13,
+      "id": "F1"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "F2"
+    },
+    {
+      "zone": "park",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "F3"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "F4"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "F5"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "F6"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "F7"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.14,
+      "id": "F8"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "F9"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "F10"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.08,
+      "id": "F11"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "F12"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "F13"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "F14"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "F15"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.19,
+      "id": "G1"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "G2"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.07,
+      "id": "G3"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "G4"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.06,
+      "id": "G5"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "G6"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "G7"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "G8"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "G9"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "G10"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "G11"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "G12"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "G13"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "G14"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.13,
+      "id": "G15"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "H1"
+    },
+    {
+      "zone": "park",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "H2"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "H3"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "H4"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "H5"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "H6"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "H7"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "H8"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "H9"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.08,
+      "id": "H10"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "H11"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.11,
+      "id": "H12"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.08,
+      "id": "H13"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.14,
+      "id": "H14"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "H15"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.08,
+      "id": "I1"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "I2"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "I3"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "I4"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "I5"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.11,
+      "id": "I6"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.3,
+      "id": "I7"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "I8"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "I9"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.2,
+      "id": "I10"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.2,
+      "id": "I11"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.23,
+      "id": "I12"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "I13"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.24,
+      "id": "I14"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "I15"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "J1"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "J2"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.06,
+      "id": "J3"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "J4"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "J5"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "J6"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "J7"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "J8"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "J9"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "J10"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.12,
+      "id": "J11"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.22,
+      "id": "J12"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.21,
+      "id": "J13"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.14,
+      "id": "J14"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.06,
+      "id": "J15"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.07,
+      "id": "K1"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.26,
+      "id": "K2"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.06,
+      "id": "K3"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "K4"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.2,
+      "id": "K5"
+    },
+    {
+      "zone": "park",
+      "traffic_light": true,
+      "traffic_light_delay": 0.19,
+      "id": "K6"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "K7"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.25,
+      "id": "K8"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "K9"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "K10"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "K11"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.2,
+      "id": "K12"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.24,
+      "id": "K13"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.16,
+      "id": "K14"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "K15"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.08,
+      "id": "L1"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.15,
+      "id": "L2"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.29,
+      "id": "L3"
+    },
+    {
+      "zone": "park",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "L4"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.25,
+      "id": "L5"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "L6"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "L7"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "L8"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "L9"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.11,
+      "id": "L10"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.24,
+      "id": "L11"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.23,
+      "id": "L12"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.05,
+      "id": "L13"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.2,
+      "id": "L14"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "L15"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "M1"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "M2"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "M3"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.19,
+      "id": "M4"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "M5"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "M6"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "M7"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "M8"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "M9"
+    },
+    {
+      "zone": "residential",
+      "traffic_light": true,
+      "traffic_light_delay": 0.25,
+      "id": "M10"
+    },
+    {
+      "zone": "park",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "M11"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.07,
+      "id": "M12"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.24,
+      "id": "M13"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "M14"
+    },
+    {
+      "zone": "commercial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "M15"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "N1"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "N2"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.3,
+      "id": "N3"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "N4"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "N5"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "N6"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.19,
+      "id": "N7"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "N8"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "N9"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.22,
+      "id": "N10"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "N11"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "N12"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "N13"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "N14"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "N15"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O1"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O2"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O3"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O4"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O5"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O6"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O7"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O8"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": true,
+      "traffic_light_delay": 0.09,
+      "id": "O9"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O10"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O11"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O12"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O13"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O14"
+    },
+    {
+      "zone": "industrial",
+      "traffic_light": false,
+      "traffic_light_delay": 0,
+      "id": "O15"
+    }
+  ],
+  "links": [
+    {
+      "weight": 1.35,
+      "distance": 1.35,
+      "road_type": "minor",
+      "capacity": 180,
+      "delay": 0,
+      "source": "A1",
+      "target": "A2"
+    },
+    {
+      "weight": 0.72,
+      "distance": 0.72,
+      "road_type": "minor",
+      "capacity": 127,
+      "delay": 0,
+      "source": "A1",
+      "target": "B1"
+    },
+    {
+      "weight": 3.04,
+      "distance": 2.94,
+      "road_type": "major",
+      "capacity": 395,
+      "delay": 0.1,
+      "source": "A2",
+      "target": "A3"
+    },
+    {
+      "weight": 4.15,
+      "distance": 4.15,
+      "road_type": "major",
+      "capacity": 410,
+      "delay": 0,
+      "source": "A2",
+      "target": "B2"
+    },
+    {
+      "weight": 0.76,
+      "distance": 0.76,
+      "road_type": "minor",
+      "capacity": 250,
+      "delay": 0,
+      "source": "A3",
+      "target": "A4"
+    },
+    {
+      "weight": 4.62,
+      "distance": 4.62,
+      "road_type": "major",
+      "capacity": 556,
+      "delay": 0,
+      "source": "A3",
+      "target": "B3"
+    },
+    {
+      "weight": 1.77,
+      "distance": 1.67,
+      "road_type": "minor",
+      "capacity": 174,
+      "delay": 0.1,
+      "source": "A4",
+      "target": "A5"
+    },
+    {
+      "weight": 2.71,
+      "distance": 2.71,
+      "road_type": "major",
+      "capacity": 402,
+      "delay": 0,
+      "source": "A4",
+      "target": "B4"
+    },
+    {
+      "weight": 0.54,
+      "distance": 0.54,
+      "road_type": "minor",
+      "capacity": 124,
+      "delay": 0,
+      "source": "A5",
+      "target": "A6"
+    },
+    {
+      "weight": 1.34,
+      "distance": 1.34,
+      "road_type": "minor",
+      "capacity": 186,
+      "delay": 0,
+      "source": "A5",
+      "target": "B5"
+    },
+    {
+      "weight": 4.119999999999999,
+      "distance": 4.02,
+      "road_type": "major",
+      "capacity": 773,
+      "delay": 0.1,
+      "source": "A6",
+      "target": "A7"
+    },
+    {
+      "weight": 0.52,
+      "distance": 0.52,
+      "road_type": "minor",
+      "capacity": 159,
+      "delay": 0,
+      "source": "A6",
+      "target": "B6"
+    },
+    {
+      "weight": 1.9300000000000002,
+      "distance": 1.83,
+      "road_type": "minor",
+      "capacity": 197,
+      "delay": 0.1,
+      "source": "A7",
+      "target": "A8"
+    },
+    {
+      "weight": 0.73,
+      "distance": 0.73,
+      "road_type": "minor",
+      "capacity": 268,
+      "delay": 0,
+      "source": "A7",
+      "target": "B7"
+    },
+    {
+      "weight": 1.51,
+      "distance": 1.51,
+      "road_type": "minor",
+      "capacity": 119,
+      "delay": 0,
+      "source": "A8",
+      "target": "A9"
+    },
+    {
+      "weight": 1.72,
+      "distance": 1.72,
+      "road_type": "minor",
+      "capacity": 223,
+      "delay": 0,
+      "source": "A8",
+      "target": "B8"
+    },
+    {
+      "weight": 4.279999999999999,
+      "distance": 4.18,
+      "road_type": "major",
+      "capacity": 512,
+      "delay": 0.1,
+      "source": "A9",
+      "target": "A10"
+    },
+    {
+      "weight": 1.7,
+      "distance": 1.7,
+      "road_type": "minor",
+      "capacity": 160,
+      "delay": 0,
+      "source": "A9",
+      "target": "B9"
+    },
+    {
+      "weight": 4.78,
+      "distance": 4.78,
+      "road_type": "major",
+      "capacity": 584,
+      "delay": 0,
+      "source": "A10",
+      "target": "A11"
+    },
+    {
+      "weight": 1.04,
+      "distance": 1.04,
+      "road_type": "minor",
+      "capacity": 259,
+      "delay": 0,
+      "source": "A10",
+      "target": "B10"
+    },
+    {
+      "weight": 0.95,
+      "distance": 0.85,
+      "road_type": "minor",
+      "capacity": 136,
+      "delay": 0.1,
+      "source": "A11",
+      "target": "A12"
+    },
+    {
+      "weight": 1.3900000000000001,
+      "distance": 1.29,
+      "road_type": "minor",
+      "capacity": 137,
+      "delay": 0.1,
+      "source": "A11",
+      "target": "B11"
+    },
+    {
+      "weight": 2.08,
+      "distance": 1.98,
+      "road_type": "minor",
+      "capacity": 300,
+      "delay": 0.1,
+      "source": "A12",
+      "target": "A13"
+    },
+    {
+      "weight": 3.2,
+      "distance": 3.2,
+      "road_type": "major",
+      "capacity": 639,
+      "delay": 0,
+      "source": "A12",
+      "target": "B12"
+    },
+    {
+      "weight": 1.28,
+      "distance": 1.18,
+      "road_type": "minor",
+      "capacity": 160,
+      "delay": 0.1,
+      "source": "A13",
+      "target": "A14"
+    },
+    {
+      "weight": 0.6699999999999999,
+      "distance": 0.57,
+      "road_type": "minor",
+      "capacity": 161,
+      "delay": 0.1,
+      "source": "A13",
+      "target": "B13"
+    },
+    {
+      "weight": 1.1400000000000001,
+      "distance": 1.04,
+      "road_type": "minor",
+      "capacity": 278,
+      "delay": 0.1,
+      "source": "A14",
+      "target": "A15"
+    },
+    {
+      "weight": 1.61,
+      "distance": 1.61,
+      "road_type": "minor",
+      "capacity": 125,
+      "delay": 0,
+      "source": "A14",
+      "target": "B14"
+    },
+    {
+      "weight": 1.85,
+      "distance": 1.85,
+      "road_type": "minor",
+      "capacity": 156,
+      "delay": 0,
+      "source": "A15",
+      "target": "B15"
+    },
+    {
+      "weight": 0.68,
+      "distance": 0.68,
+      "road_type": "minor",
+      "capacity": 175,
+      "delay": 0,
+      "source": "B1",
+      "target": "B2"
+    },
+    {
+      "weight": 4.409999999999999,
+      "distance": 4.31,
+      "road_type": "major",
+      "capacity": 686,
+      "delay": 0.1,
+      "source": "B1",
+      "target": "C1"
+    },
+    {
+      "weight": 1.33,
+      "distance": 1.33,
+      "road_type": "minor",
+      "capacity": 273,
+      "delay": 0,
+      "source": "B2",
+      "target": "B3"
+    },
+    {
+      "weight": 1.62,
+      "distance": 1.62,
+      "road_type": "minor",
+      "capacity": 290,
+      "delay": 0,
+      "source": "B2",
+      "target": "C2"
+    },
+    {
+      "weight": 2.83,
+      "distance": 2.83,
+      "road_type": "major",
+      "capacity": 361,
+      "delay": 0,
+      "source": "B3",
+      "target": "B4"
+    },
+    {
+      "weight": 0.65,
+      "distance": 0.65,
+      "road_type": "minor",
+      "capacity": 140,
+      "delay": 0,
+      "source": "B3",
+      "target": "C3"
+    },
+    {
+      "weight": 1.98,
+      "distance": 1.98,
+      "road_type": "minor",
+      "capacity": 262,
+      "delay": 0,
+      "source": "B4",
+      "target": "B5"
+    },
+    {
+      "weight": 0.78,
+      "distance": 0.78,
+      "road_type": "minor",
+      "capacity": 140,
+      "delay": 0,
+      "source": "B4",
+      "target": "C4"
+    },
+    {
+      "weight": 0.69,
+      "distance": 0.59,
+      "road_type": "minor",
+      "capacity": 236,
+      "delay": 0.1,
+      "source": "B5",
+      "target": "B6"
+    },
+    {
+      "weight": 0.66,
+      "distance": 0.66,
+      "road_type": "minor",
+      "capacity": 145,
+      "delay": 0,
+      "source": "B5",
+      "target": "C5"
+    },
+    {
+      "weight": 2.8,
+      "distance": 2.8,
+      "road_type": "major",
+      "capacity": 582,
+      "delay": 0,
+      "source": "B6",
+      "target": "B7"
+    },
+    {
+      "weight": 0.73,
+      "distance": 0.73,
+      "road_type": "minor",
+      "capacity": 157,
+      "delay": 0,
+      "source": "B6",
+      "target": "C6"
+    },
+    {
+      "weight": 0.99,
+      "distance": 0.89,
+      "road_type": "minor",
+      "capacity": 195,
+      "delay": 0.1,
+      "source": "B7",
+      "target": "B8"
+    },
+    {
+      "weight": 4.71,
+      "distance": 4.71,
+      "road_type": "major",
+      "capacity": 462,
+      "delay": 0,
+      "source": "B7",
+      "target": "C7"
+    },
+    {
+      "weight": 1.69,
+      "distance": 1.69,
+      "road_type": "minor",
+      "capacity": 207,
+      "delay": 0,
+      "source": "B8",
+      "target": "B9"
+    },
+    {
+      "weight": 1.8900000000000001,
+      "distance": 1.79,
+      "road_type": "minor",
+      "capacity": 244,
+      "delay": 0.1,
+      "source": "B8",
+      "target": "C8"
+    },
+    {
+      "weight": 1.75,
+      "distance": 1.75,
+      "road_type": "minor",
+      "capacity": 142,
+      "delay": 0,
+      "source": "B9",
+      "target": "B10"
+    },
+    {
+      "weight": 1.72,
+      "distance": 1.72,
+      "road_type": "minor",
+      "capacity": 244,
+      "delay": 0,
+      "source": "B9",
+      "target": "C9"
+    },
+    {
+      "weight": 3.75,
+      "distance": 3.75,
+      "road_type": "major",
+      "capacity": 389,
+      "delay": 0,
+      "source": "B10",
+      "target": "B11"
+    },
+    {
+      "weight": 2.44,
+      "distance": 2.44,
+      "road_type": "major",
+      "capacity": 714,
+      "delay": 0,
+      "source": "B10",
+      "target": "C10"
+    },
+    {
+      "weight": 0.56,
+      "distance": 0.56,
+      "road_type": "minor",
+      "capacity": 221,
+      "delay": 0,
+      "source": "B11",
+      "target": "B12"
+    },
+    {
+      "weight": 2.46,
+      "distance": 2.46,
+      "road_type": "major",
+      "capacity": 713,
+      "delay": 0,
+      "source": "B11",
+      "target": "C11"
+    },
+    {
+      "weight": 1.1700000000000002,
+      "distance": 1.07,
+      "road_type": "minor",
+      "capacity": 264,
+      "delay": 0.1,
+      "source": "B12",
+      "target": "B13"
+    },
+    {
+      "weight": 3.32,
+      "distance": 3.32,
+      "road_type": "major",
+      "capacity": 496,
+      "delay": 0,
+      "source": "B12",
+      "target": "C12"
+    },
+    {
+      "weight": 1.43,
+      "distance": 1.43,
+      "road_type": "minor",
+      "capacity": 119,
+      "delay": 0,
+      "source": "B13",
+      "target": "B14"
+    },
+    {
+      "weight": 0.52,
+      "distance": 0.52,
+      "road_type": "minor",
+      "capacity": 132,
+      "delay": 0,
+      "source": "B13",
+      "target": "C13"
+    },
+    {
+      "weight": 1.28,
+      "distance": 1.28,
+      "road_type": "minor",
+      "capacity": 202,
+      "delay": 0,
+      "source": "B14",
+      "target": "B15"
+    },
+    {
+      "weight": 1.19,
+      "distance": 1.19,
+      "road_type": "minor",
+      "capacity": 240,
+      "delay": 0,
+      "source": "B14",
+      "target": "C14"
+    },
+    {
+      "weight": 3.59,
+      "distance": 3.59,
+      "road_type": "major",
+      "capacity": 742,
+      "delay": 0,
+      "source": "B15",
+      "target": "C15"
+    },
+    {
+      "weight": 1.74,
+      "distance": 1.64,
+      "road_type": "minor",
+      "capacity": 235,
+      "delay": 0.1,
+      "source": "C1",
+      "target": "C2"
+    },
+    {
+      "weight": 3.33,
+      "distance": 3.23,
+      "road_type": "major",
+      "capacity": 627,
+      "delay": 0.1,
+      "source": "C1",
+      "target": "D1"
+    },
+    {
+      "weight": 1.92,
+      "distance": 1.92,
+      "road_type": "minor",
+      "capacity": 195,
+      "delay": 0,
+      "source": "C2",
+      "target": "C3"
+    },
+    {
+      "weight": 1.2000000000000002,
+      "distance": 1.1,
+      "road_type": "minor",
+      "capacity": 135,
+      "delay": 0.1,
+      "source": "C2",
+      "target": "D2"
+    },
+    {
+      "weight": 0.68,
+      "distance": 0.68,
+      "road_type": "minor",
+      "capacity": 198,
+      "delay": 0,
+      "source": "C3",
+      "target": "C4"
+    },
+    {
+      "weight": 1.0,
+      "distance": 0.9,
+      "road_type": "minor",
+      "capacity": 157,
+      "delay": 0.1,
+      "source": "C3",
+      "target": "D3"
+    },
+    {
+      "weight": 1.52,
+      "distance": 1.52,
+      "road_type": "minor",
+      "capacity": 195,
+      "delay": 0,
+      "source": "C4",
+      "target": "C5"
+    },
+    {
+      "weight": 1.84,
+      "distance": 1.84,
+      "road_type": "minor",
+      "capacity": 134,
+      "delay": 0,
+      "source": "C4",
+      "target": "D4"
+    },
+    {
+      "weight": 1.6500000000000001,
+      "distance": 1.55,
+      "road_type": "minor",
+      "capacity": 192,
+      "delay": 0.1,
+      "source": "C5",
+      "target": "C6"
+    },
+    {
+      "weight": 3.15,
+      "distance": 3.15,
+      "road_type": "major",
+      "capacity": 509,
+      "delay": 0,
+      "source": "C5",
+      "target": "D5"
+    },
+    {
+      "weight": 2.07,
+      "distance": 1.97,
+      "road_type": "minor",
+      "capacity": 131,
+      "delay": 0.1,
+      "source": "C6",
+      "target": "C7"
+    },
+    {
+      "weight": 0.96,
+      "distance": 0.96,
+      "road_type": "minor",
+      "capacity": 138,
+      "delay": 0,
+      "source": "C6",
+      "target": "D6"
+    },
+    {
+      "weight": 1.84,
+      "distance": 1.84,
+      "road_type": "minor",
+      "capacity": 191,
+      "delay": 0,
+      "source": "C7",
+      "target": "C8"
+    },
+    {
+      "weight": 2.51,
+      "distance": 2.51,
+      "road_type": "major",
+      "capacity": 623,
+      "delay": 0,
+      "source": "C7",
+      "target": "D7"
+    },
+    {
+      "weight": 1.63,
+      "distance": 1.63,
+      "road_type": "minor",
+      "capacity": 266,
+      "delay": 0,
+      "source": "C8",
+      "target": "C9"
+    },
+    {
+      "weight": 0.84,
+      "distance": 0.74,
+      "road_type": "minor",
+      "capacity": 198,
+      "delay": 0.1,
+      "source": "C8",
+      "target": "D8"
+    },
+    {
+      "weight": 1.08,
+      "distance": 0.98,
+      "road_type": "minor",
+      "capacity": 125,
+      "delay": 0.1,
+      "source": "C9",
+      "target": "C10"
+    },
+    {
+      "weight": 2.85,
+      "distance": 2.85,
+      "road_type": "major",
+      "capacity": 632,
+      "delay": 0,
+      "source": "C9",
+      "target": "D9"
+    },
+    {
+      "weight": 3.02,
+      "distance": 3.02,
+      "road_type": "major",
+      "capacity": 677,
+      "delay": 0,
+      "source": "C10",
+      "target": "C11"
+    },
+    {
+      "weight": 0.86,
+      "distance": 0.86,
+      "road_type": "minor",
+      "capacity": 215,
+      "delay": 0,
+      "source": "C10",
+      "target": "D10"
+    },
+    {
+      "weight": 4.42,
+      "distance": 4.42,
+      "road_type": "major",
+      "capacity": 551,
+      "delay": 0,
+      "source": "C11",
+      "target": "C12"
+    },
+    {
+      "weight": 0.77,
+      "distance": 0.77,
+      "road_type": "minor",
+      "capacity": 279,
+      "delay": 0,
+      "source": "C11",
+      "target": "D11"
+    },
+    {
+      "weight": 2.7,
+      "distance": 2.7,
+      "road_type": "major",
+      "capacity": 387,
+      "delay": 0,
+      "source": "C12",
+      "target": "C13"
+    },
+    {
+      "weight": 2.6,
+      "distance": 2.6,
+      "road_type": "major",
+      "capacity": 730,
+      "delay": 0,
+      "source": "C12",
+      "target": "D12"
+    },
+    {
+      "weight": 0.92,
+      "distance": 0.92,
+      "road_type": "minor",
+      "capacity": 181,
+      "delay": 0,
+      "source": "C13",
+      "target": "C14"
+    },
+    {
+      "weight": 1.06,
+      "distance": 1.06,
+      "road_type": "minor",
+      "capacity": 176,
+      "delay": 0,
+      "source": "C13",
+      "target": "D13"
+    },
+    {
+      "weight": 1.48,
+      "distance": 1.48,
+      "road_type": "minor",
+      "capacity": 234,
+      "delay": 0,
+      "source": "C14",
+      "target": "C15"
+    },
+    {
+      "weight": 2.08,
+      "distance": 1.98,
+      "road_type": "minor",
+      "capacity": 245,
+      "delay": 0.1,
+      "source": "C14",
+      "target": "D14"
+    },
+    {
+      "weight": 1.52,
+      "distance": 1.52,
+      "road_type": "minor",
+      "capacity": 215,
+      "delay": 0,
+      "source": "C15",
+      "target": "D15"
+    },
+    {
+      "weight": 3.85,
+      "distance": 3.85,
+      "road_type": "major",
+      "capacity": 582,
+      "delay": 0,
+      "source": "D1",
+      "target": "D2"
+    },
+    {
+      "weight": 1.33,
+      "distance": 1.33,
+      "road_type": "minor",
+      "capacity": 144,
+      "delay": 0,
+      "source": "D1",
+      "target": "E1"
+    },
+    {
+      "weight": 0.66,
+      "distance": 0.66,
+      "road_type": "minor",
+      "capacity": 104,
+      "delay": 0,
+      "source": "D2",
+      "target": "D3"
+    },
+    {
+      "weight": 1.93,
+      "distance": 1.93,
+      "road_type": "minor",
+      "capacity": 292,
+      "delay": 0,
+      "source": "D2",
+      "target": "E2"
+    },
+    {
+      "weight": 1.84,
+      "distance": 1.84,
+      "road_type": "minor",
+      "capacity": 141,
+      "delay": 0,
+      "source": "D3",
+      "target": "D4"
+    },
+    {
+      "weight": 0.5,
+      "distance": 0.5,
+      "road_type": "minor",
+      "capacity": 154,
+      "delay": 0,
+      "source": "D3",
+      "target": "E3"
+    },
+    {
+      "weight": 4.8,
+      "distance": 4.8,
+      "road_type": "major",
+      "capacity": 301,
+      "delay": 0,
+      "source": "D4",
+      "target": "D5"
+    },
+    {
+      "weight": 4.47,
+      "distance": 4.47,
+      "road_type": "major",
+      "capacity": 415,
+      "delay": 0,
+      "source": "D4",
+      "target": "E4"
+    },
+    {
+      "weight": 1.81,
+      "distance": 1.81,
+      "road_type": "minor",
+      "capacity": 210,
+      "delay": 0,
+      "source": "D5",
+      "target": "D6"
+    },
+    {
+      "weight": 1.4500000000000002,
+      "distance": 1.35,
+      "road_type": "minor",
+      "capacity": 106,
+      "delay": 0.1,
+      "source": "D5",
+      "target": "E5"
+    },
+    {
+      "weight": 2.04,
+      "distance": 2.04,
+      "road_type": "major",
+      "capacity": 727,
+      "delay": 0,
+      "source": "D6",
+      "target": "D7"
+    },
+    {
+      "weight": 0.52,
+      "distance": 0.52,
+      "road_type": "minor",
+      "capacity": 295,
+      "delay": 0,
+      "source": "D6",
+      "target": "E6"
+    },
+    {
+      "weight": 3.09,
+      "distance": 3.09,
+      "road_type": "major",
+      "capacity": 785,
+      "delay": 0,
+      "source": "D7",
+      "target": "D8"
+    },
+    {
+      "weight": 1.52,
+      "distance": 1.52,
+      "road_type": "minor",
+      "capacity": 114,
+      "delay": 0,
+      "source": "D7",
+      "target": "E7"
+    },
+    {
+      "weight": 4.19,
+      "distance": 4.19,
+      "road_type": "major",
+      "capacity": 341,
+      "delay": 0,
+      "source": "D8",
+      "target": "D9"
+    },
+    {
+      "weight": 4.33,
+      "distance": 4.33,
+      "road_type": "major",
+      "capacity": 463,
+      "delay": 0,
+      "source": "D8",
+      "target": "E8"
+    },
+    {
+      "weight": 1.21,
+      "distance": 1.21,
+      "road_type": "minor",
+      "capacity": 286,
+      "delay": 0,
+      "source": "D9",
+      "target": "D10"
+    },
+    {
+      "weight": 1.54,
+      "distance": 1.54,
+      "road_type": "minor",
+      "capacity": 151,
+      "delay": 0,
+      "source": "D9",
+      "target": "E9"
+    },
+    {
+      "weight": 2.28,
+      "distance": 2.28,
+      "road_type": "major",
+      "capacity": 566,
+      "delay": 0,
+      "source": "D10",
+      "target": "D11"
+    },
+    {
+      "weight": 1.6300000000000001,
+      "distance": 1.53,
+      "road_type": "minor",
+      "capacity": 243,
+      "delay": 0.1,
+      "source": "D10",
+      "target": "E10"
+    },
+    {
+      "weight": 1.19,
+      "distance": 1.19,
+      "road_type": "minor",
+      "capacity": 281,
+      "delay": 0,
+      "source": "D11",
+      "target": "D12"
+    },
+    {
+      "weight": 1.14,
+      "distance": 1.14,
+      "road_type": "minor",
+      "capacity": 181,
+      "delay": 0,
+      "source": "D11",
+      "target": "E11"
+    },
+    {
+      "weight": 0.9,
+      "distance": 0.9,
+      "road_type": "minor",
+      "capacity": 103,
+      "delay": 0,
+      "source": "D12",
+      "target": "D13"
+    },
+    {
+      "weight": 3.16,
+      "distance": 3.06,
+      "road_type": "major",
+      "capacity": 700,
+      "delay": 0.1,
+      "source": "D12",
+      "target": "E12"
+    },
+    {
+      "weight": 1.51,
+      "distance": 1.51,
+      "road_type": "minor",
+      "capacity": 299,
+      "delay": 0,
+      "source": "D13",
+      "target": "D14"
+    },
+    {
+      "weight": 1.4400000000000002,
+      "distance": 1.34,
+      "road_type": "minor",
+      "capacity": 233,
+      "delay": 0.1,
+      "source": "D13",
+      "target": "E13"
+    },
+    {
+      "weight": 1.5,
+      "distance": 1.4,
+      "road_type": "minor",
+      "capacity": 252,
+      "delay": 0.1,
+      "source": "D14",
+      "target": "D15"
+    },
+    {
+      "weight": 2.85,
+      "distance": 2.85,
+      "road_type": "major",
+      "capacity": 456,
+      "delay": 0,
+      "source": "D14",
+      "target": "E14"
+    },
+    {
+      "weight": 1.16,
+      "distance": 1.16,
+      "road_type": "minor",
+      "capacity": 175,
+      "delay": 0,
+      "source": "D15",
+      "target": "E15"
+    },
+    {
+      "weight": 4.9,
+      "distance": 4.9,
+      "road_type": "major",
+      "capacity": 746,
+      "delay": 0,
+      "source": "E1",
+      "target": "E2"
+    },
+    {
+      "weight": 3.31,
+      "distance": 3.21,
+      "road_type": "major",
+      "capacity": 570,
+      "delay": 0.1,
+      "source": "E1",
+      "target": "F1"
+    },
+    {
+      "weight": 3.12,
+      "distance": 3.02,
+      "road_type": "major",
+      "capacity": 599,
+      "delay": 0.1,
+      "source": "E2",
+      "target": "E3"
+    },
+    {
+      "weight": 1.3800000000000001,
+      "distance": 1.28,
+      "road_type": "minor",
+      "capacity": 253,
+      "delay": 0.1,
+      "source": "E2",
+      "target": "F2"
+    },
+    {
+      "weight": 1.31,
+      "distance": 1.31,
+      "road_type": "minor",
+      "capacity": 285,
+      "delay": 0,
+      "source": "E3",
+      "target": "E4"
+    },
+    {
+      "weight": 3.61,
+      "distance": 3.51,
+      "road_type": "major",
+      "capacity": 722,
+      "delay": 0.1,
+      "source": "E3",
+      "target": "F3"
+    },
+    {
+      "weight": 2.55,
+      "distance": 2.55,
+      "road_type": "major",
+      "capacity": 353,
+      "delay": 0,
+      "source": "E4",
+      "target": "E5"
+    },
+    {
+      "weight": 0.71,
+      "distance": 0.71,
+      "road_type": "minor",
+      "capacity": 300,
+      "delay": 0,
+      "source": "E4",
+      "target": "F4"
+    },
+    {
+      "weight": 2.08,
+      "distance": 2.08,
+      "road_type": "major",
+      "capacity": 481,
+      "delay": 0,
+      "source": "E5",
+      "target": "E6"
+    },
+    {
+      "weight": 1.27,
+      "distance": 1.17,
+      "road_type": "minor",
+      "capacity": 275,
+      "delay": 0.1,
+      "source": "E5",
+      "target": "F5"
+    },
+    {
+      "weight": 0.57,
+      "distance": 0.57,
+      "road_type": "minor",
+      "capacity": 146,
+      "delay": 0,
+      "source": "E6",
+      "target": "E7"
+    },
+    {
+      "weight": 1.35,
+      "distance": 1.35,
+      "road_type": "minor",
+      "capacity": 268,
+      "delay": 0,
+      "source": "E6",
+      "target": "F6"
+    },
+    {
+      "weight": 0.8,
+      "distance": 0.8,
+      "road_type": "minor",
+      "capacity": 241,
+      "delay": 0,
+      "source": "E7",
+      "target": "E8"
+    },
+    {
+      "weight": 1.83,
+      "distance": 1.73,
+      "road_type": "minor",
+      "capacity": 194,
+      "delay": 0.1,
+      "source": "E7",
+      "target": "F7"
+    },
+    {
+      "weight": 0.63,
+      "distance": 0.53,
+      "road_type": "minor",
+      "capacity": 107,
+      "delay": 0.1,
+      "source": "E8",
+      "target": "E9"
+    },
+    {
+      "weight": 1.56,
+      "distance": 1.56,
+      "road_type": "minor",
+      "capacity": 118,
+      "delay": 0,
+      "source": "E8",
+      "target": "F8"
+    },
+    {
+      "weight": 3.85,
+      "distance": 3.85,
+      "road_type": "major",
+      "capacity": 311,
+      "delay": 0,
+      "source": "E9",
+      "target": "E10"
+    },
+    {
+      "weight": 1.4,
+      "distance": 1.4,
+      "road_type": "minor",
+      "capacity": 114,
+      "delay": 0,
+      "source": "E9",
+      "target": "F9"
+    },
+    {
+      "weight": 0.6,
+      "distance": 0.6,
+      "road_type": "minor",
+      "capacity": 245,
+      "delay": 0,
+      "source": "E10",
+      "target": "E11"
+    },
+    {
+      "weight": 1.99,
+      "distance": 1.99,
+      "road_type": "minor",
+      "capacity": 114,
+      "delay": 0,
+      "source": "E10",
+      "target": "F10"
+    },
+    {
+      "weight": 3.38,
+      "distance": 3.28,
+      "road_type": "major",
+      "capacity": 389,
+      "delay": 0.1,
+      "source": "E11",
+      "target": "E12"
+    },
+    {
+      "weight": 4.28,
+      "distance": 4.28,
+      "road_type": "major",
+      "capacity": 396,
+      "delay": 0,
+      "source": "E11",
+      "target": "F11"
+    },
+    {
+      "weight": 0.54,
+      "distance": 0.54,
+      "road_type": "minor",
+      "capacity": 179,
+      "delay": 0,
+      "source": "E12",
+      "target": "E13"
+    },
+    {
+      "weight": 2.69,
+      "distance": 2.69,
+      "road_type": "major",
+      "capacity": 420,
+      "delay": 0,
+      "source": "E12",
+      "target": "F12"
+    },
+    {
+      "weight": 1.98,
+      "distance": 1.98,
+      "road_type": "minor",
+      "capacity": 176,
+      "delay": 0,
+      "source": "E13",
+      "target": "E14"
+    },
+    {
+      "weight": 1.87,
+      "distance": 1.87,
+      "road_type": "minor",
+      "capacity": 173,
+      "delay": 0,
+      "source": "E13",
+      "target": "F13"
+    },
+    {
+      "weight": 1.7000000000000002,
+      "distance": 1.6,
+      "road_type": "minor",
+      "capacity": 227,
+      "delay": 0.1,
+      "source": "E14",
+      "target": "E15"
+    },
+    {
+      "weight": 1.35,
+      "distance": 1.35,
+      "road_type": "minor",
+      "capacity": 148,
+      "delay": 0,
+      "source": "E14",
+      "target": "F14"
+    },
+    {
+      "weight": 1.4,
+      "distance": 1.4,
+      "road_type": "minor",
+      "capacity": 176,
+      "delay": 0,
+      "source": "E15",
+      "target": "F15"
+    },
+    {
+      "weight": 1.55,
+      "distance": 1.55,
+      "road_type": "minor",
+      "capacity": 221,
+      "delay": 0,
+      "source": "F1",
+      "target": "F2"
+    },
+    {
+      "weight": 3.24,
+      "distance": 3.24,
+      "road_type": "major",
+      "capacity": 344,
+      "delay": 0,
+      "source": "F1",
+      "target": "G1"
+    },
+    {
+      "weight": 2.6,
+      "distance": 2.5,
+      "road_type": "major",
+      "capacity": 799,
+      "delay": 0.1,
+      "source": "F2",
+      "target": "F3"
+    },
+    {
+      "weight": 4.3,
+      "distance": 4.3,
+      "road_type": "major",
+      "capacity": 620,
+      "delay": 0,
+      "source": "F2",
+      "target": "G2"
+    },
+    {
+      "weight": 2.79,
+      "distance": 2.79,
+      "road_type": "major",
+      "capacity": 514,
+      "delay": 0,
+      "source": "F3",
+      "target": "F4"
+    },
+    {
+      "weight": 0.77,
+      "distance": 0.77,
+      "road_type": "minor",
+      "capacity": 175,
+      "delay": 0,
+      "source": "F3",
+      "target": "G3"
+    },
+    {
+      "weight": 1.47,
+      "distance": 1.47,
+      "road_type": "minor",
+      "capacity": 108,
+      "delay": 0,
+      "source": "F4",
+      "target": "F5"
+    },
+    {
+      "weight": 0.97,
+      "distance": 0.97,
+      "road_type": "minor",
+      "capacity": 186,
+      "delay": 0,
+      "source": "F4",
+      "target": "G4"
+    },
+    {
+      "weight": 1.7000000000000002,
+      "distance": 1.6,
+      "road_type": "minor",
+      "capacity": 216,
+      "delay": 0.1,
+      "source": "F5",
+      "target": "F6"
+    },
+    {
+      "weight": 3.7600000000000002,
+      "distance": 3.66,
+      "road_type": "major",
+      "capacity": 606,
+      "delay": 0.1,
+      "source": "F5",
+      "target": "G5"
+    },
+    {
+      "weight": 1.24,
+      "distance": 1.24,
+      "road_type": "minor",
+      "capacity": 266,
+      "delay": 0,
+      "source": "F6",
+      "target": "F7"
+    },
+    {
+      "weight": 1.3,
+      "distance": 1.3,
+      "road_type": "minor",
+      "capacity": 122,
+      "delay": 0,
+      "source": "F6",
+      "target": "G6"
+    },
+    {
+      "weight": 0.9,
+      "distance": 0.8,
+      "road_type": "minor",
+      "capacity": 219,
+      "delay": 0.1,
+      "source": "F7",
+      "target": "F8"
+    },
+    {
+      "weight": 3.24,
+      "distance": 3.24,
+      "road_type": "major",
+      "capacity": 475,
+      "delay": 0,
+      "source": "F7",
+      "target": "G7"
+    },
+    {
+      "weight": 1.08,
+      "distance": 1.08,
+      "road_type": "minor",
+      "capacity": 162,
+      "delay": 0,
+      "source": "F8",
+      "target": "F9"
+    },
+    {
+      "weight": 0.97,
+      "distance": 0.87,
+      "road_type": "minor",
+      "capacity": 218,
+      "delay": 0.1,
+      "source": "F8",
+      "target": "G8"
+    },
+    {
+      "weight": 2.3,
+      "distance": 2.3,
+      "road_type": "major",
+      "capacity": 310,
+      "delay": 0,
+      "source": "F9",
+      "target": "F10"
+    },
+    {
+      "weight": 1.47,
+      "distance": 1.47,
+      "road_type": "minor",
+      "capacity": 194,
+      "delay": 0,
+      "source": "F9",
+      "target": "G9"
+    },
+    {
+      "weight": 1.69,
+      "distance": 1.69,
+      "road_type": "minor",
+      "capacity": 244,
+      "delay": 0,
+      "source": "F10",
+      "target": "F11"
+    },
+    {
+      "weight": 3.02,
+      "distance": 2.92,
+      "road_type": "major",
+      "capacity": 542,
+      "delay": 0.1,
+      "source": "F10",
+      "target": "G10"
+    },
+    {
+      "weight": 1.94,
+      "distance": 1.94,
+      "road_type": "minor",
+      "capacity": 145,
+      "delay": 0,
+      "source": "F11",
+      "target": "F12"
+    },
+    {
+      "weight": 1.06,
+      "distance": 0.96,
+      "road_type": "minor",
+      "capacity": 197,
+      "delay": 0.1,
+      "source": "F11",
+      "target": "G11"
+    },
+    {
+      "weight": 1.58,
+      "distance": 1.58,
+      "road_type": "minor",
+      "capacity": 162,
+      "delay": 0,
+      "source": "F12",
+      "target": "F13"
+    },
+    {
+      "weight": 2.52,
+      "distance": 2.52,
+      "road_type": "major",
+      "capacity": 761,
+      "delay": 0,
+      "source": "F12",
+      "target": "G12"
+    },
+    {
+      "weight": 1.9400000000000002,
+      "distance": 1.84,
+      "road_type": "minor",
+      "capacity": 280,
+      "delay": 0.1,
+      "source": "F13",
+      "target": "F14"
+    },
+    {
+      "weight": 1.92,
+      "distance": 1.92,
+      "road_type": "minor",
+      "capacity": 137,
+      "delay": 0,
+      "source": "F13",
+      "target": "G13"
+    },
+    {
+      "weight": 1.74,
+      "distance": 1.64,
+      "road_type": "minor",
+      "capacity": 262,
+      "delay": 0.1,
+      "source": "F14",
+      "target": "F15"
+    },
+    {
+      "weight": 4.56,
+      "distance": 4.46,
+      "road_type": "major",
+      "capacity": 742,
+      "delay": 0.1,
+      "source": "F14",
+      "target": "G14"
+    },
+    {
+      "weight": 0.84,
+      "distance": 0.84,
+      "road_type": "minor",
+      "capacity": 266,
+      "delay": 0,
+      "source": "F15",
+      "target": "G15"
+    },
+    {
+      "weight": 4.43,
+      "distance": 4.33,
+      "road_type": "major",
+      "capacity": 669,
+      "delay": 0.1,
+      "source": "G1",
+      "target": "G2"
+    },
+    {
+      "weight": 1.43,
+      "distance": 1.43,
+      "road_type": "minor",
+      "capacity": 216,
+      "delay": 0,
+      "source": "G1",
+      "target": "H1"
+    },
+    {
+      "weight": 0.95,
+      "distance": 0.95,
+      "road_type": "minor",
+      "capacity": 178,
+      "delay": 0,
+      "source": "G2",
+      "target": "G3"
+    },
+    {
+      "weight": 1.48,
+      "distance": 1.48,
+      "road_type": "minor",
+      "capacity": 142,
+      "delay": 0,
+      "source": "G2",
+      "target": "H2"
+    },
+    {
+      "weight": 4.369999999999999,
+      "distance": 4.27,
+      "road_type": "major",
+      "capacity": 568,
+      "delay": 0.1,
+      "source": "G3",
+      "target": "G4"
+    },
+    {
+      "weight": 1.0,
+      "distance": 1.0,
+      "road_type": "minor",
+      "capacity": 201,
+      "delay": 0,
+      "source": "G3",
+      "target": "H3"
+    },
+    {
+      "weight": 1.34,
+      "distance": 1.34,
+      "road_type": "minor",
+      "capacity": 144,
+      "delay": 0,
+      "source": "G4",
+      "target": "G5"
+    },
+    {
+      "weight": 0.76,
+      "distance": 0.76,
+      "road_type": "minor",
+      "capacity": 287,
+      "delay": 0,
+      "source": "G4",
+      "target": "H4"
+    },
+    {
+      "weight": 1.83,
+      "distance": 1.83,
+      "road_type": "minor",
+      "capacity": 199,
+      "delay": 0,
+      "source": "G5",
+      "target": "G6"
+    },
+    {
+      "weight": 1.62,
+      "distance": 1.62,
+      "road_type": "minor",
+      "capacity": 122,
+      "delay": 0,
+      "source": "G5",
+      "target": "H5"
+    },
+    {
+      "weight": 1.3900000000000001,
+      "distance": 1.29,
+      "road_type": "minor",
+      "capacity": 210,
+      "delay": 0.1,
+      "source": "G6",
+      "target": "G7"
+    },
+    {
+      "weight": 1.95,
+      "distance": 1.95,
+      "road_type": "minor",
+      "capacity": 257,
+      "delay": 0,
+      "source": "G6",
+      "target": "H6"
+    },
+    {
+      "weight": 1.07,
+      "distance": 0.97,
+      "road_type": "minor",
+      "capacity": 278,
+      "delay": 0.1,
+      "source": "G7",
+      "target": "G8"
+    },
+    {
+      "weight": 0.9199999999999999,
+      "distance": 0.82,
+      "road_type": "minor",
+      "capacity": 262,
+      "delay": 0.1,
+      "source": "G7",
+      "target": "H7"
+    },
+    {
+      "weight": 1.83,
+      "distance": 1.83,
+      "road_type": "minor",
+      "capacity": 258,
+      "delay": 0,
+      "source": "G8",
+      "target": "G9"
+    },
+    {
+      "weight": 2.37,
+      "distance": 2.37,
+      "road_type": "major",
+      "capacity": 476,
+      "delay": 0,
+      "source": "G8",
+      "target": "H8"
+    },
+    {
+      "weight": 2.39,
+      "distance": 2.39,
+      "road_type": "major",
+      "capacity": 652,
+      "delay": 0,
+      "source": "G9",
+      "target": "G10"
+    },
+    {
+      "weight": 1.06,
+      "distance": 0.96,
+      "road_type": "minor",
+      "capacity": 119,
+      "delay": 0.1,
+      "source": "G9",
+      "target": "H9"
+    },
+    {
+      "weight": 0.54,
+      "distance": 0.54,
+      "road_type": "minor",
+      "capacity": 236,
+      "delay": 0,
+      "source": "G10",
+      "target": "G11"
+    },
+    {
+      "weight": 1.1500000000000001,
+      "distance": 1.05,
+      "road_type": "minor",
+      "capacity": 158,
+      "delay": 0.1,
+      "source": "G10",
+      "target": "H10"
+    },
+    {
+      "weight": 1.76,
+      "distance": 1.66,
+      "road_type": "minor",
+      "capacity": 180,
+      "delay": 0.1,
+      "source": "G11",
+      "target": "G12"
+    },
+    {
+      "weight": 3.37,
+      "distance": 3.37,
+      "road_type": "major",
+      "capacity": 499,
+      "delay": 0,
+      "source": "G11",
+      "target": "H11"
+    },
+    {
+      "weight": 1.84,
+      "distance": 1.74,
+      "road_type": "minor",
+      "capacity": 131,
+      "delay": 0.1,
+      "source": "G12",
+      "target": "G13"
+    },
+    {
+      "weight": 4.07,
+      "distance": 4.07,
+      "road_type": "major",
+      "capacity": 638,
+      "delay": 0,
+      "source": "G12",
+      "target": "H12"
+    },
+    {
+      "weight": 3.22,
+      "distance": 3.22,
+      "road_type": "major",
+      "capacity": 747,
+      "delay": 0,
+      "source": "G13",
+      "target": "G14"
+    },
+    {
+      "weight": 1.24,
+      "distance": 1.24,
+      "road_type": "minor",
+      "capacity": 161,
+      "delay": 0,
+      "source": "G13",
+      "target": "H13"
+    },
+    {
+      "weight": 2.39,
+      "distance": 2.29,
+      "road_type": "major",
+      "capacity": 322,
+      "delay": 0.1,
+      "source": "G14",
+      "target": "G15"
+    },
+    {
+      "weight": 2.0,
+      "distance": 2.0,
+      "road_type": "minor",
+      "capacity": 284,
+      "delay": 0,
+      "source": "G14",
+      "target": "H14"
+    },
+    {
+      "weight": 0.89,
+      "distance": 0.89,
+      "road_type": "minor",
+      "capacity": 244,
+      "delay": 0,
+      "source": "G15",
+      "target": "H15"
+    },
+    {
+      "weight": 1.33,
+      "distance": 1.33,
+      "road_type": "minor",
+      "capacity": 266,
+      "delay": 0,
+      "source": "H1",
+      "target": "H2"
+    },
+    {
+      "weight": 3.43,
+      "distance": 3.43,
+      "road_type": "major",
+      "capacity": 650,
+      "delay": 0,
+      "source": "H1",
+      "target": "I1"
+    },
+    {
+      "weight": 1.93,
+      "distance": 1.93,
+      "road_type": "minor",
+      "capacity": 281,
+      "delay": 0,
+      "source": "H2",
+      "target": "H3"
+    },
+    {
+      "weight": 3.69,
+      "distance": 3.69,
+      "road_type": "major",
+      "capacity": 484,
+      "delay": 0,
+      "source": "H2",
+      "target": "I2"
+    },
+    {
+      "weight": 2.03,
+      "distance": 1.93,
+      "road_type": "minor",
+      "capacity": 132,
+      "delay": 0.1,
+      "source": "H3",
+      "target": "H4"
+    },
+    {
+      "weight": 1.4000000000000001,
+      "distance": 1.3,
+      "road_type": "minor",
+      "capacity": 155,
+      "delay": 0.1,
+      "source": "H3",
+      "target": "I3"
+    },
+    {
+      "weight": 0.78,
+      "distance": 0.68,
+      "road_type": "minor",
+      "capacity": 215,
+      "delay": 0.1,
+      "source": "H4",
+      "target": "H5"
+    },
+    {
+      "weight": 1.67,
+      "distance": 1.67,
+      "road_type": "minor",
+      "capacity": 222,
+      "delay": 0,
+      "source": "H4",
+      "target": "I4"
+    },
+    {
+      "weight": 4.8,
+      "distance": 4.7,
+      "road_type": "major",
+      "capacity": 450,
+      "delay": 0.1,
+      "source": "H5",
+      "target": "H6"
+    },
+    {
+      "weight": 0.96,
+      "distance": 0.96,
+      "road_type": "minor",
+      "capacity": 213,
+      "delay": 0,
+      "source": "H5",
+      "target": "I5"
+    },
+    {
+      "weight": 1.79,
+      "distance": 1.79,
+      "road_type": "minor",
+      "capacity": 160,
+      "delay": 0,
+      "source": "H6",
+      "target": "H7"
+    },
+    {
+      "weight": 4.59,
+      "distance": 4.59,
+      "road_type": "major",
+      "capacity": 745,
+      "delay": 0,
+      "source": "H6",
+      "target": "I6"
+    },
+    {
+      "weight": 1.02,
+      "distance": 1.02,
+      "road_type": "minor",
+      "capacity": 197,
+      "delay": 0,
+      "source": "H7",
+      "target": "H8"
+    },
+    {
+      "weight": 0.99,
+      "distance": 0.99,
+      "road_type": "minor",
+      "capacity": 263,
+      "delay": 0,
+      "source": "H7",
+      "target": "I7"
+    },
+    {
+      "weight": 1.33,
+      "distance": 1.33,
+      "road_type": "minor",
+      "capacity": 189,
+      "delay": 0,
+      "source": "H8",
+      "target": "H9"
+    },
+    {
+      "weight": 1.8,
+      "distance": 1.7,
+      "road_type": "minor",
+      "capacity": 166,
+      "delay": 0.1,
+      "source": "H8",
+      "target": "I8"
+    },
+    {
+      "weight": 1.53,
+      "distance": 1.43,
+      "road_type": "minor",
+      "capacity": 105,
+      "delay": 0.1,
+      "source": "H9",
+      "target": "H10"
+    },
+    {
+      "weight": 1.59,
+      "distance": 1.59,
+      "road_type": "minor",
+      "capacity": 196,
+      "delay": 0,
+      "source": "H9",
+      "target": "I9"
+    },
+    {
+      "weight": 0.81,
+      "distance": 0.81,
+      "road_type": "minor",
+      "capacity": 298,
+      "delay": 0,
+      "source": "H10",
+      "target": "H11"
+    },
+    {
+      "weight": 0.99,
+      "distance": 0.99,
+      "road_type": "minor",
+      "capacity": 146,
+      "delay": 0,
+      "source": "H10",
+      "target": "I10"
+    },
+    {
+      "weight": 1.28,
+      "distance": 1.18,
+      "road_type": "minor",
+      "capacity": 275,
+      "delay": 0.1,
+      "source": "H11",
+      "target": "H12"
+    },
+    {
+      "weight": 1.12,
+      "distance": 1.12,
+      "road_type": "minor",
+      "capacity": 202,
+      "delay": 0,
+      "source": "H11",
+      "target": "I11"
+    },
+    {
+      "weight": 1.0,
+      "distance": 1.0,
+      "road_type": "minor",
+      "capacity": 140,
+      "delay": 0,
+      "source": "H12",
+      "target": "H13"
+    },
+    {
+      "weight": 3.97,
+      "distance": 3.97,
+      "road_type": "major",
+      "capacity": 518,
+      "delay": 0,
+      "source": "H12",
+      "target": "I12"
+    },
+    {
+      "weight": 0.68,
+      "distance": 0.68,
+      "road_type": "minor",
+      "capacity": 249,
+      "delay": 0,
+      "source": "H13",
+      "target": "H14"
+    },
+    {
+      "weight": 3.43,
+      "distance": 3.43,
+      "road_type": "major",
+      "capacity": 539,
+      "delay": 0,
+      "source": "H13",
+      "target": "I13"
+    },
+    {
+      "weight": 4.04,
+      "distance": 3.94,
+      "road_type": "major",
+      "capacity": 330,
+      "delay": 0.1,
+      "source": "H14",
+      "target": "H15"
+    },
+    {
+      "weight": 0.69,
+      "distance": 0.69,
+      "road_type": "minor",
+      "capacity": 254,
+      "delay": 0,
+      "source": "H14",
+      "target": "I14"
+    },
+    {
+      "weight": 2.77,
+      "distance": 2.77,
+      "road_type": "major",
+      "capacity": 780,
+      "delay": 0,
+      "source": "H15",
+      "target": "I15"
+    },
+    {
+      "weight": 1.26,
+      "distance": 1.16,
+      "road_type": "minor",
+      "capacity": 167,
+      "delay": 0.1,
+      "source": "I1",
+      "target": "I2"
+    },
+    {
+      "weight": 2.1,
+      "distance": 2.0,
+      "road_type": "minor",
+      "capacity": 189,
+      "delay": 0.1,
+      "source": "I1",
+      "target": "J1"
+    },
+    {
+      "weight": 1.88,
+      "distance": 1.88,
+      "road_type": "minor",
+      "capacity": 124,
+      "delay": 0,
+      "source": "I2",
+      "target": "I3"
+    },
+    {
+      "weight": 1.58,
+      "distance": 1.58,
+      "road_type": "minor",
+      "capacity": 191,
+      "delay": 0,
+      "source": "I2",
+      "target": "J2"
+    },
+    {
+      "weight": 1.19,
+      "distance": 1.19,
+      "road_type": "minor",
+      "capacity": 204,
+      "delay": 0,
+      "source": "I3",
+      "target": "I4"
+    },
+    {
+      "weight": 1.1,
+      "distance": 1.1,
+      "road_type": "minor",
+      "capacity": 145,
+      "delay": 0,
+      "source": "I3",
+      "target": "J3"
+    },
+    {
+      "weight": 1.82,
+      "distance": 1.82,
+      "road_type": "minor",
+      "capacity": 290,
+      "delay": 0,
+      "source": "I4",
+      "target": "I5"
+    },
+    {
+      "weight": 1.4,
+      "distance": 1.4,
+      "road_type": "minor",
+      "capacity": 178,
+      "delay": 0,
+      "source": "I4",
+      "target": "J4"
+    },
+    {
+      "weight": 0.84,
+      "distance": 0.84,
+      "road_type": "minor",
+      "capacity": 138,
+      "delay": 0,
+      "source": "I5",
+      "target": "I6"
+    },
+    {
+      "weight": 1.5,
+      "distance": 1.4,
+      "road_type": "minor",
+      "capacity": 299,
+      "delay": 0.1,
+      "source": "I5",
+      "target": "J5"
+    },
+    {
+      "weight": 1.55,
+      "distance": 1.45,
+      "road_type": "minor",
+      "capacity": 191,
+      "delay": 0.1,
+      "source": "I6",
+      "target": "I7"
+    },
+    {
+      "weight": 1.46,
+      "distance": 1.46,
+      "road_type": "minor",
+      "capacity": 161,
+      "delay": 0,
+      "source": "I6",
+      "target": "J6"
+    },
+    {
+      "weight": 1.19,
+      "distance": 1.19,
+      "road_type": "minor",
+      "capacity": 135,
+      "delay": 0,
+      "source": "I7",
+      "target": "I8"
+    },
+    {
+      "weight": 0.78,
+      "distance": 0.68,
+      "road_type": "minor",
+      "capacity": 181,
+      "delay": 0.1,
+      "source": "I7",
+      "target": "J7"
+    },
+    {
+      "weight": 0.61,
+      "distance": 0.51,
+      "road_type": "minor",
+      "capacity": 281,
+      "delay": 0.1,
+      "source": "I8",
+      "target": "I9"
+    },
+    {
+      "weight": 3.31,
+      "distance": 3.31,
+      "road_type": "major",
+      "capacity": 720,
+      "delay": 0,
+      "source": "I8",
+      "target": "J8"
+    },
+    {
+      "weight": 1.25,
+      "distance": 1.25,
+      "road_type": "minor",
+      "capacity": 255,
+      "delay": 0,
+      "source": "I9",
+      "target": "I10"
+    },
+    {
+      "weight": 1.09,
+      "distance": 1.09,
+      "road_type": "minor",
+      "capacity": 133,
+      "delay": 0,
+      "source": "I9",
+      "target": "J9"
+    },
+    {
+      "weight": 1.24,
+      "distance": 1.24,
+      "road_type": "minor",
+      "capacity": 130,
+      "delay": 0,
+      "source": "I10",
+      "target": "I11"
+    },
+    {
+      "weight": 4.4,
+      "distance": 4.4,
+      "road_type": "major",
+      "capacity": 734,
+      "delay": 0,
+      "source": "I10",
+      "target": "J10"
+    },
+    {
+      "weight": 1.38,
+      "distance": 1.38,
+      "road_type": "minor",
+      "capacity": 246,
+      "delay": 0,
+      "source": "I11",
+      "target": "I12"
+    },
+    {
+      "weight": 1.42,
+      "distance": 1.42,
+      "road_type": "minor",
+      "capacity": 135,
+      "delay": 0,
+      "source": "I11",
+      "target": "J11"
+    },
+    {
+      "weight": 3.0300000000000002,
+      "distance": 2.93,
+      "road_type": "major",
+      "capacity": 588,
+      "delay": 0.1,
+      "source": "I12",
+      "target": "I13"
+    },
+    {
+      "weight": 0.99,
+      "distance": 0.89,
+      "road_type": "minor",
+      "capacity": 162,
+      "delay": 0.1,
+      "source": "I12",
+      "target": "J12"
+    },
+    {
+      "weight": 1.25,
+      "distance": 1.25,
+      "road_type": "minor",
+      "capacity": 157,
+      "delay": 0,
+      "source": "I13",
+      "target": "I14"
+    },
+    {
+      "weight": 1.1600000000000001,
+      "distance": 1.06,
+      "road_type": "minor",
+      "capacity": 110,
+      "delay": 0.1,
+      "source": "I13",
+      "target": "J13"
+    },
+    {
+      "weight": 4.83,
+      "distance": 4.83,
+      "road_type": "major",
+      "capacity": 449,
+      "delay": 0,
+      "source": "I14",
+      "target": "I15"
+    },
+    {
+      "weight": 1.46,
+      "distance": 1.46,
+      "road_type": "minor",
+      "capacity": 234,
+      "delay": 0,
+      "source": "I14",
+      "target": "J14"
+    },
+    {
+      "weight": 1.64,
+      "distance": 1.64,
+      "road_type": "minor",
+      "capacity": 180,
+      "delay": 0,
+      "source": "I15",
+      "target": "J15"
+    },
+    {
+      "weight": 1.81,
+      "distance": 1.81,
+      "road_type": "minor",
+      "capacity": 148,
+      "delay": 0,
+      "source": "J1",
+      "target": "J2"
+    },
+    {
+      "weight": 3.4,
+      "distance": 3.4,
+      "road_type": "major",
+      "capacity": 490,
+      "delay": 0,
+      "source": "J1",
+      "target": "K1"
+    },
+    {
+      "weight": 2.58,
+      "distance": 2.58,
+      "road_type": "major",
+      "capacity": 745,
+      "delay": 0,
+      "source": "J2",
+      "target": "J3"
+    },
+    {
+      "weight": 0.9,
+      "distance": 0.8,
+      "road_type": "minor",
+      "capacity": 151,
+      "delay": 0.1,
+      "source": "J2",
+      "target": "K2"
+    },
+    {
+      "weight": 1.4,
+      "distance": 1.4,
+      "road_type": "minor",
+      "capacity": 298,
+      "delay": 0,
+      "source": "J3",
+      "target": "J4"
+    },
+    {
+      "weight": 1.56,
+      "distance": 1.56,
+      "road_type": "minor",
+      "capacity": 167,
+      "delay": 0,
+      "source": "J3",
+      "target": "K3"
+    },
+    {
+      "weight": 0.71,
+      "distance": 0.61,
+      "road_type": "minor",
+      "capacity": 295,
+      "delay": 0.1,
+      "source": "J4",
+      "target": "J5"
+    },
+    {
+      "weight": 1.04,
+      "distance": 0.94,
+      "road_type": "minor",
+      "capacity": 125,
+      "delay": 0.1,
+      "source": "J4",
+      "target": "K4"
+    },
+    {
+      "weight": 1.6300000000000001,
+      "distance": 1.53,
+      "road_type": "minor",
+      "capacity": 173,
+      "delay": 0.1,
+      "source": "J5",
+      "target": "J6"
+    },
+    {
+      "weight": 0.57,
+      "distance": 0.57,
+      "road_type": "minor",
+      "capacity": 176,
+      "delay": 0,
+      "source": "J5",
+      "target": "K5"
+    },
+    {
+      "weight": 1.48,
+      "distance": 1.38,
+      "road_type": "minor",
+      "capacity": 286,
+      "delay": 0.1,
+      "source": "J6",
+      "target": "J7"
+    },
+    {
+      "weight": 1.83,
+      "distance": 1.83,
+      "road_type": "minor",
+      "capacity": 180,
+      "delay": 0,
+      "source": "J6",
+      "target": "K6"
+    },
+    {
+      "weight": 3.0500000000000003,
+      "distance": 2.95,
+      "road_type": "major",
+      "capacity": 459,
+      "delay": 0.1,
+      "source": "J7",
+      "target": "J8"
+    },
+    {
+      "weight": 4.14,
+      "distance": 4.14,
+      "road_type": "major",
+      "capacity": 585,
+      "delay": 0,
+      "source": "J7",
+      "target": "K7"
+    },
+    {
+      "weight": 3.81,
+      "distance": 3.71,
+      "road_type": "major",
+      "capacity": 328,
+      "delay": 0.1,
+      "source": "J8",
+      "target": "J9"
+    },
+    {
+      "weight": 1.55,
+      "distance": 1.55,
+      "road_type": "minor",
+      "capacity": 238,
+      "delay": 0,
+      "source": "J8",
+      "target": "K8"
+    },
+    {
+      "weight": 3.87,
+      "distance": 3.87,
+      "road_type": "major",
+      "capacity": 434,
+      "delay": 0,
+      "source": "J9",
+      "target": "J10"
+    },
+    {
+      "weight": 0.6,
+      "distance": 0.6,
+      "road_type": "minor",
+      "capacity": 246,
+      "delay": 0,
+      "source": "J9",
+      "target": "K9"
+    },
+    {
+      "weight": 4.19,
+      "distance": 4.19,
+      "road_type": "major",
+      "capacity": 360,
+      "delay": 0,
+      "source": "J10",
+      "target": "J11"
+    },
+    {
+      "weight": 0.88,
+      "distance": 0.78,
+      "road_type": "minor",
+      "capacity": 203,
+      "delay": 0.1,
+      "source": "J10",
+      "target": "K10"
+    },
+    {
+      "weight": 1.12,
+      "distance": 1.12,
+      "road_type": "minor",
+      "capacity": 216,
+      "delay": 0,
+      "source": "J11",
+      "target": "J12"
+    },
+    {
+      "weight": 1.77,
+      "distance": 1.77,
+      "road_type": "minor",
+      "capacity": 119,
+      "delay": 0,
+      "source": "J11",
+      "target": "K11"
+    },
+    {
+      "weight": 1.7,
+      "distance": 1.7,
+      "road_type": "minor",
+      "capacity": 138,
+      "delay": 0,
+      "source": "J12",
+      "target": "J13"
+    },
+    {
+      "weight": 1.58,
+      "distance": 1.58,
+      "road_type": "minor",
+      "capacity": 289,
+      "delay": 0,
+      "source": "J12",
+      "target": "K12"
+    },
+    {
+      "weight": 4.6,
+      "distance": 4.6,
+      "road_type": "major",
+      "capacity": 448,
+      "delay": 0,
+      "source": "J13",
+      "target": "J14"
+    },
+    {
+      "weight": 0.91,
+      "distance": 0.91,
+      "road_type": "minor",
+      "capacity": 249,
+      "delay": 0,
+      "source": "J13",
+      "target": "K13"
+    },
+    {
+      "weight": 0.67,
+      "distance": 0.67,
+      "road_type": "minor",
+      "capacity": 228,
+      "delay": 0,
+      "source": "J14",
+      "target": "J15"
+    },
+    {
+      "weight": 1.9200000000000002,
+      "distance": 1.82,
+      "road_type": "minor",
+      "capacity": 293,
+      "delay": 0.1,
+      "source": "J14",
+      "target": "K14"
+    },
+    {
+      "weight": 1.39,
+      "distance": 1.39,
+      "road_type": "minor",
+      "capacity": 182,
+      "delay": 0,
+      "source": "J15",
+      "target": "K15"
+    },
+    {
+      "weight": 4.569999999999999,
+      "distance": 4.47,
+      "road_type": "major",
+      "capacity": 638,
+      "delay": 0.1,
+      "source": "K1",
+      "target": "K2"
+    },
+    {
+      "weight": 3.19,
+      "distance": 3.19,
+      "road_type": "major",
+      "capacity": 671,
+      "delay": 0,
+      "source": "K1",
+      "target": "L1"
+    },
+    {
+      "weight": 2.43,
+      "distance": 2.43,
+      "road_type": "major",
+      "capacity": 326,
+      "delay": 0,
+      "source": "K2",
+      "target": "K3"
+    },
+    {
+      "weight": 0.92,
+      "distance": 0.92,
+      "road_type": "minor",
+      "capacity": 217,
+      "delay": 0,
+      "source": "K2",
+      "target": "L2"
+    },
+    {
+      "weight": 1.05,
+      "distance": 1.05,
+      "road_type": "minor",
+      "capacity": 161,
+      "delay": 0,
+      "source": "K3",
+      "target": "K4"
+    },
+    {
+      "weight": 1.99,
+      "distance": 1.99,
+      "road_type": "minor",
+      "capacity": 263,
+      "delay": 0,
+      "source": "K3",
+      "target": "L3"
+    },
+    {
+      "weight": 1.6,
+      "distance": 1.6,
+      "road_type": "minor",
+      "capacity": 189,
+      "delay": 0,
+      "source": "K4",
+      "target": "K5"
+    },
+    {
+      "weight": 5.069999999999999,
+      "distance": 4.97,
+      "road_type": "major",
+      "capacity": 597,
+      "delay": 0.1,
+      "source": "K4",
+      "target": "L4"
+    },
+    {
+      "weight": 1.11,
+      "distance": 1.11,
+      "road_type": "minor",
+      "capacity": 211,
+      "delay": 0,
+      "source": "K5",
+      "target": "K6"
+    },
+    {
+      "weight": 0.9,
+      "distance": 0.9,
+      "road_type": "minor",
+      "capacity": 216,
+      "delay": 0,
+      "source": "K5",
+      "target": "L5"
+    },
+    {
+      "weight": 4.97,
+      "distance": 4.97,
+      "road_type": "major",
+      "capacity": 755,
+      "delay": 0,
+      "source": "K6",
+      "target": "K7"
+    },
+    {
+      "weight": 0.52,
+      "distance": 0.52,
+      "road_type": "minor",
+      "capacity": 153,
+      "delay": 0,
+      "source": "K6",
+      "target": "L6"
+    },
+    {
+      "weight": 0.62,
+      "distance": 0.62,
+      "road_type": "minor",
+      "capacity": 271,
+      "delay": 0,
+      "source": "K7",
+      "target": "K8"
+    },
+    {
+      "weight": 2.1,
+      "distance": 2.0,
+      "road_type": "minor",
+      "capacity": 226,
+      "delay": 0.1,
+      "source": "K7",
+      "target": "L7"
+    },
+    {
+      "weight": 4.03,
+      "distance": 4.03,
+      "road_type": "major",
+      "capacity": 421,
+      "delay": 0,
+      "source": "K8",
+      "target": "K9"
+    },
+    {
+      "weight": 1.55,
+      "distance": 1.45,
+      "road_type": "minor",
+      "capacity": 164,
+      "delay": 0.1,
+      "source": "K8",
+      "target": "L8"
+    },
+    {
+      "weight": 1.51,
+      "distance": 1.41,
+      "road_type": "minor",
+      "capacity": 236,
+      "delay": 0.1,
+      "source": "K9",
+      "target": "K10"
+    },
+    {
+      "weight": 1.29,
+      "distance": 1.29,
+      "road_type": "minor",
+      "capacity": 169,
+      "delay": 0,
+      "source": "K9",
+      "target": "L9"
+    },
+    {
+      "weight": 1.79,
+      "distance": 1.79,
+      "road_type": "minor",
+      "capacity": 290,
+      "delay": 0,
+      "source": "K10",
+      "target": "K11"
+    },
+    {
+      "weight": 0.88,
+      "distance": 0.88,
+      "road_type": "minor",
+      "capacity": 178,
+      "delay": 0,
+      "source": "K10",
+      "target": "L10"
+    },
+    {
+      "weight": 0.74,
+      "distance": 0.74,
+      "road_type": "minor",
+      "capacity": 274,
+      "delay": 0,
+      "source": "K11",
+      "target": "K12"
+    },
+    {
+      "weight": 1.09,
+      "distance": 1.09,
+      "road_type": "minor",
+      "capacity": 273,
+      "delay": 0,
+      "source": "K11",
+      "target": "L11"
+    },
+    {
+      "weight": 1.08,
+      "distance": 1.08,
+      "road_type": "minor",
+      "capacity": 278,
+      "delay": 0,
+      "source": "K12",
+      "target": "K13"
+    },
+    {
+      "weight": 0.9199999999999999,
+      "distance": 0.82,
+      "road_type": "minor",
+      "capacity": 142,
+      "delay": 0.1,
+      "source": "K12",
+      "target": "L12"
+    },
+    {
+      "weight": 1.4500000000000002,
+      "distance": 1.35,
+      "road_type": "minor",
+      "capacity": 155,
+      "delay": 0.1,
+      "source": "K13",
+      "target": "K14"
+    },
+    {
+      "weight": 1.74,
+      "distance": 1.74,
+      "road_type": "minor",
+      "capacity": 122,
+      "delay": 0,
+      "source": "K13",
+      "target": "L13"
+    },
+    {
+      "weight": 1.78,
+      "distance": 1.68,
+      "road_type": "minor",
+      "capacity": 270,
+      "delay": 0.1,
+      "source": "K14",
+      "target": "K15"
+    },
+    {
+      "weight": 0.75,
+      "distance": 0.65,
+      "road_type": "minor",
+      "capacity": 233,
+      "delay": 0.1,
+      "source": "K14",
+      "target": "L14"
+    },
+    {
+      "weight": 2.0,
+      "distance": 2.0,
+      "road_type": "minor",
+      "capacity": 275,
+      "delay": 0,
+      "source": "K15",
+      "target": "L15"
+    },
+    {
+      "weight": 2.54,
+      "distance": 2.44,
+      "road_type": "major",
+      "capacity": 367,
+      "delay": 0.1,
+      "source": "L1",
+      "target": "L2"
+    },
+    {
+      "weight": 1.38,
+      "distance": 1.38,
+      "road_type": "minor",
+      "capacity": 251,
+      "delay": 0,
+      "source": "L1",
+      "target": "M1"
+    },
+    {
+      "weight": 3.7,
+      "distance": 3.7,
+      "road_type": "major",
+      "capacity": 479,
+      "delay": 0,
+      "source": "L2",
+      "target": "L3"
+    },
+    {
+      "weight": 0.55,
+      "distance": 0.55,
+      "road_type": "minor",
+      "capacity": 287,
+      "delay": 0,
+      "source": "L2",
+      "target": "M2"
+    },
+    {
+      "weight": 2.55,
+      "distance": 2.55,
+      "road_type": "major",
+      "capacity": 396,
+      "delay": 0,
+      "source": "L3",
+      "target": "L4"
+    },
+    {
+      "weight": 3.47,
+      "distance": 3.47,
+      "road_type": "major",
+      "capacity": 724,
+      "delay": 0,
+      "source": "L3",
+      "target": "M3"
+    },
+    {
+      "weight": 1.34,
+      "distance": 1.24,
+      "road_type": "minor",
+      "capacity": 286,
+      "delay": 0.1,
+      "source": "L4",
+      "target": "L5"
+    },
+    {
+      "weight": 2.64,
+      "distance": 2.64,
+      "road_type": "major",
+      "capacity": 764,
+      "delay": 0,
+      "source": "L4",
+      "target": "M4"
+    },
+    {
+      "weight": 2.08,
+      "distance": 1.98,
+      "road_type": "minor",
+      "capacity": 114,
+      "delay": 0.1,
+      "source": "L5",
+      "target": "L6"
+    },
+    {
+      "weight": 1.74,
+      "distance": 1.74,
+      "road_type": "minor",
+      "capacity": 179,
+      "delay": 0,
+      "source": "L5",
+      "target": "M5"
+    },
+    {
+      "weight": 0.7999999999999999,
+      "distance": 0.7,
+      "road_type": "minor",
+      "capacity": 271,
+      "delay": 0.1,
+      "source": "L6",
+      "target": "L7"
+    },
+    {
+      "weight": 0.94,
+      "distance": 0.94,
+      "road_type": "minor",
+      "capacity": 172,
+      "delay": 0,
+      "source": "L6",
+      "target": "M6"
+    },
+    {
+      "weight": 3.24,
+      "distance": 3.24,
+      "road_type": "major",
+      "capacity": 639,
+      "delay": 0,
+      "source": "L7",
+      "target": "L8"
+    },
+    {
+      "weight": 0.65,
+      "distance": 0.65,
+      "road_type": "minor",
+      "capacity": 180,
+      "delay": 0,
+      "source": "L7",
+      "target": "M7"
+    },
+    {
+      "weight": 3.55,
+      "distance": 3.55,
+      "road_type": "major",
+      "capacity": 367,
+      "delay": 0,
+      "source": "L8",
+      "target": "L9"
+    },
+    {
+      "weight": 0.7,
+      "distance": 0.7,
+      "road_type": "minor",
+      "capacity": 112,
+      "delay": 0,
+      "source": "L8",
+      "target": "M8"
+    },
+    {
+      "weight": 1.04,
+      "distance": 1.04,
+      "road_type": "minor",
+      "capacity": 172,
+      "delay": 0,
+      "source": "L9",
+      "target": "L10"
+    },
+    {
+      "weight": 0.68,
+      "distance": 0.68,
+      "road_type": "minor",
+      "capacity": 149,
+      "delay": 0,
+      "source": "L9",
+      "target": "M9"
+    },
+    {
+      "weight": 0.82,
+      "distance": 0.82,
+      "road_type": "minor",
+      "capacity": 228,
+      "delay": 0,
+      "source": "L10",
+      "target": "L11"
+    },
+    {
+      "weight": 1.75,
+      "distance": 1.75,
+      "road_type": "minor",
+      "capacity": 188,
+      "delay": 0,
+      "source": "L10",
+      "target": "M10"
+    },
+    {
+      "weight": 3.06,
+      "distance": 3.06,
+      "road_type": "major",
+      "capacity": 477,
+      "delay": 0,
+      "source": "L11",
+      "target": "L12"
+    },
+    {
+      "weight": 1.94,
+      "distance": 1.94,
+      "road_type": "minor",
+      "capacity": 233,
+      "delay": 0,
+      "source": "L11",
+      "target": "M11"
+    },
+    {
+      "weight": 1.49,
+      "distance": 1.49,
+      "road_type": "minor",
+      "capacity": 213,
+      "delay": 0,
+      "source": "L12",
+      "target": "L13"
+    },
+    {
+      "weight": 0.64,
+      "distance": 0.64,
+      "road_type": "minor",
+      "capacity": 254,
+      "delay": 0,
+      "source": "L12",
+      "target": "M12"
+    },
+    {
+      "weight": 1.39,
+      "distance": 1.39,
+      "road_type": "minor",
+      "capacity": 179,
+      "delay": 0,
+      "source": "L13",
+      "target": "L14"
+    },
+    {
+      "weight": 4.24,
+      "distance": 4.24,
+      "road_type": "major",
+      "capacity": 642,
+      "delay": 0,
+      "source": "L13",
+      "target": "M13"
+    },
+    {
+      "weight": 3.16,
+      "distance": 3.16,
+      "road_type": "major",
+      "capacity": 415,
+      "delay": 0,
+      "source": "L14",
+      "target": "L15"
+    },
+    {
+      "weight": 1.08,
+      "distance": 0.98,
+      "road_type": "minor",
+      "capacity": 118,
+      "delay": 0.1,
+      "source": "L14",
+      "target": "M14"
+    },
+    {
+      "weight": 1.31,
+      "distance": 1.21,
+      "road_type": "minor",
+      "capacity": 264,
+      "delay": 0.1,
+      "source": "L15",
+      "target": "M15"
+    },
+    {
+      "weight": 0.78,
+      "distance": 0.68,
+      "road_type": "minor",
+      "capacity": 214,
+      "delay": 0.1,
+      "source": "M1",
+      "target": "M2"
+    },
+    {
+      "weight": 1.18,
+      "distance": 1.18,
+      "road_type": "minor",
+      "capacity": 156,
+      "delay": 0,
+      "source": "M1",
+      "target": "N1"
+    },
+    {
+      "weight": 1.07,
+      "distance": 1.07,
+      "road_type": "minor",
+      "capacity": 199,
+      "delay": 0,
+      "source": "M2",
+      "target": "M3"
+    },
+    {
+      "weight": 1.4400000000000002,
+      "distance": 1.34,
+      "road_type": "minor",
+      "capacity": 178,
+      "delay": 0.1,
+      "source": "M2",
+      "target": "N2"
+    },
+    {
+      "weight": 1.84,
+      "distance": 1.74,
+      "road_type": "minor",
+      "capacity": 281,
+      "delay": 0.1,
+      "source": "M3",
+      "target": "M4"
+    },
+    {
+      "weight": 0.84,
+      "distance": 0.74,
+      "road_type": "minor",
+      "capacity": 292,
+      "delay": 0.1,
+      "source": "M3",
+      "target": "N3"
+    },
+    {
+      "weight": 1.25,
+      "distance": 1.25,
+      "road_type": "minor",
+      "capacity": 284,
+      "delay": 0,
+      "source": "M4",
+      "target": "M5"
+    },
+    {
+      "weight": 4.779999999999999,
+      "distance": 4.68,
+      "road_type": "major",
+      "capacity": 341,
+      "delay": 0.1,
+      "source": "M4",
+      "target": "N4"
+    },
+    {
+      "weight": 3.5700000000000003,
+      "distance": 3.47,
+      "road_type": "major",
+      "capacity": 447,
+      "delay": 0.1,
+      "source": "M5",
+      "target": "M6"
+    },
+    {
+      "weight": 1.81,
+      "distance": 1.81,
+      "road_type": "minor",
+      "capacity": 289,
+      "delay": 0,
+      "source": "M5",
+      "target": "N5"
+    },
+    {
+      "weight": 1.94,
+      "distance": 1.94,
+      "road_type": "minor",
+      "capacity": 171,
+      "delay": 0,
+      "source": "M6",
+      "target": "M7"
+    },
+    {
+      "weight": 0.84,
+      "distance": 0.74,
+      "road_type": "minor",
+      "capacity": 250,
+      "delay": 0.1,
+      "source": "M6",
+      "target": "N6"
+    },
+    {
+      "weight": 1.73,
+      "distance": 1.73,
+      "road_type": "minor",
+      "capacity": 157,
+      "delay": 0,
+      "source": "M7",
+      "target": "M8"
+    },
+    {
+      "weight": 1.3800000000000001,
+      "distance": 1.28,
+      "road_type": "minor",
+      "capacity": 256,
+      "delay": 0.1,
+      "source": "M7",
+      "target": "N7"
+    },
+    {
+      "weight": 1.25,
+      "distance": 1.15,
+      "road_type": "minor",
+      "capacity": 277,
+      "delay": 0.1,
+      "source": "M8",
+      "target": "M9"
+    },
+    {
+      "weight": 1.74,
+      "distance": 1.74,
+      "road_type": "minor",
+      "capacity": 106,
+      "delay": 0,
+      "source": "M8",
+      "target": "N8"
+    },
+    {
+      "weight": 1.1900000000000002,
+      "distance": 1.09,
+      "road_type": "minor",
+      "capacity": 182,
+      "delay": 0.1,
+      "source": "M9",
+      "target": "M10"
+    },
+    {
+      "weight": 2.04,
+      "distance": 1.94,
+      "road_type": "minor",
+      "capacity": 265,
+      "delay": 0.1,
+      "source": "M9",
+      "target": "N9"
+    },
+    {
+      "weight": 1.57,
+      "distance": 1.57,
+      "road_type": "minor",
+      "capacity": 143,
+      "delay": 0,
+      "source": "M10",
+      "target": "M11"
+    },
+    {
+      "weight": 1.33,
+      "distance": 1.23,
+      "road_type": "minor",
+      "capacity": 192,
+      "delay": 0.1,
+      "source": "M10",
+      "target": "N10"
+    },
+    {
+      "weight": 1.57,
+      "distance": 1.57,
+      "road_type": "minor",
+      "capacity": 134,
+      "delay": 0,
+      "source": "M11",
+      "target": "M12"
+    },
+    {
+      "weight": 1.6800000000000002,
+      "distance": 1.58,
+      "road_type": "minor",
+      "capacity": 120,
+      "delay": 0.1,
+      "source": "M11",
+      "target": "N11"
+    },
+    {
+      "weight": 3.46,
+      "distance": 3.36,
+      "road_type": "major",
+      "capacity": 481,
+      "delay": 0.1,
+      "source": "M12",
+      "target": "M13"
+    },
+    {
+      "weight": 1.73,
+      "distance": 1.73,
+      "road_type": "minor",
+      "capacity": 265,
+      "delay": 0,
+      "source": "M12",
+      "target": "N12"
+    },
+    {
+      "weight": 3.91,
+      "distance": 3.91,
+      "road_type": "major",
+      "capacity": 478,
+      "delay": 0,
+      "source": "M13",
+      "target": "M14"
+    },
+    {
+      "weight": 1.07,
+      "distance": 1.07,
+      "road_type": "minor",
+      "capacity": 126,
+      "delay": 0,
+      "source": "M13",
+      "target": "N13"
+    },
+    {
+      "weight": 0.53,
+      "distance": 0.53,
+      "road_type": "minor",
+      "capacity": 193,
+      "delay": 0,
+      "source": "M14",
+      "target": "M15"
+    },
+    {
+      "weight": 0.99,
+      "distance": 0.89,
+      "road_type": "minor",
+      "capacity": 182,
+      "delay": 0.1,
+      "source": "M14",
+      "target": "N14"
+    },
+    {
+      "weight": 4.0,
+      "distance": 3.9,
+      "road_type": "major",
+      "capacity": 505,
+      "delay": 0.1,
+      "source": "M15",
+      "target": "N15"
+    },
+    {
+      "weight": 1.9300000000000002,
+      "distance": 1.83,
+      "road_type": "minor",
+      "capacity": 139,
+      "delay": 0.1,
+      "source": "N1",
+      "target": "N2"
+    },
+    {
+      "weight": 1.1500000000000001,
+      "distance": 1.05,
+      "road_type": "minor",
+      "capacity": 207,
+      "delay": 0.1,
+      "source": "N1",
+      "target": "O1"
+    },
+    {
+      "weight": 0.93,
+      "distance": 0.93,
+      "road_type": "minor",
+      "capacity": 126,
+      "delay": 0,
+      "source": "N2",
+      "target": "N3"
+    },
+    {
+      "weight": 1.7000000000000002,
+      "distance": 1.6,
+      "road_type": "minor",
+      "capacity": 234,
+      "delay": 0.1,
+      "source": "N2",
+      "target": "O2"
+    },
+    {
+      "weight": 1.9300000000000002,
+      "distance": 1.83,
+      "road_type": "minor",
+      "capacity": 248,
+      "delay": 0.1,
+      "source": "N3",
+      "target": "N4"
+    },
+    {
+      "weight": 1.6,
+      "distance": 1.5,
+      "road_type": "minor",
+      "capacity": 234,
+      "delay": 0.1,
+      "source": "N3",
+      "target": "O3"
+    },
+    {
+      "weight": 2.4,
+      "distance": 2.4,
+      "road_type": "major",
+      "capacity": 522,
+      "delay": 0,
+      "source": "N4",
+      "target": "N5"
+    },
+    {
+      "weight": 0.89,
+      "distance": 0.79,
+      "road_type": "minor",
+      "capacity": 102,
+      "delay": 0.1,
+      "source": "N4",
+      "target": "O4"
+    },
+    {
+      "weight": 4.489999999999999,
+      "distance": 4.39,
+      "road_type": "major",
+      "capacity": 785,
+      "delay": 0.1,
+      "source": "N5",
+      "target": "N6"
+    },
+    {
+      "weight": 1.7200000000000002,
+      "distance": 1.62,
+      "road_type": "minor",
+      "capacity": 146,
+      "delay": 0.1,
+      "source": "N5",
+      "target": "O5"
+    },
+    {
+      "weight": 0.52,
+      "distance": 0.52,
+      "road_type": "minor",
+      "capacity": 135,
+      "delay": 0,
+      "source": "N6",
+      "target": "N7"
+    },
+    {
+      "weight": 1.1800000000000002,
+      "distance": 1.08,
+      "road_type": "minor",
+      "capacity": 253,
+      "delay": 0.1,
+      "source": "N6",
+      "target": "O6"
+    },
+    {
+      "weight": 0.63,
+      "distance": 0.63,
+      "road_type": "minor",
+      "capacity": 278,
+      "delay": 0,
+      "source": "N7",
+      "target": "N8"
+    },
+    {
+      "weight": 1.54,
+      "distance": 1.54,
+      "road_type": "minor",
+      "capacity": 129,
+      "delay": 0,
+      "source": "N7",
+      "target": "O7"
+    },
+    {
+      "weight": 1.94,
+      "distance": 1.94,
+      "road_type": "minor",
+      "capacity": 266,
+      "delay": 0,
+      "source": "N8",
+      "target": "N9"
+    },
+    {
+      "weight": 0.52,
+      "distance": 0.52,
+      "road_type": "minor",
+      "capacity": 165,
+      "delay": 0,
+      "source": "N8",
+      "target": "O8"
+    },
+    {
+      "weight": 1.67,
+      "distance": 1.67,
+      "road_type": "minor",
+      "capacity": 262,
+      "delay": 0,
+      "source": "N9",
+      "target": "N10"
+    },
+    {
+      "weight": 1.1,
+      "distance": 1.1,
+      "road_type": "minor",
+      "capacity": 117,
+      "delay": 0,
+      "source": "N9",
+      "target": "O9"
+    },
+    {
+      "weight": 4.56,
+      "distance": 4.46,
+      "road_type": "major",
+      "capacity": 395,
+      "delay": 0.1,
+      "source": "N10",
+      "target": "N11"
+    },
+    {
+      "weight": 1.4500000000000002,
+      "distance": 1.35,
+      "road_type": "minor",
+      "capacity": 119,
+      "delay": 0.1,
+      "source": "N10",
+      "target": "O10"
+    },
+    {
+      "weight": 1.68,
+      "distance": 1.68,
+      "road_type": "minor",
+      "capacity": 230,
+      "delay": 0,
+      "source": "N11",
+      "target": "N12"
+    },
+    {
+      "weight": 3.59,
+      "distance": 3.59,
+      "road_type": "major",
+      "capacity": 526,
+      "delay": 0,
+      "source": "N11",
+      "target": "O11"
+    },
+    {
+      "weight": 3.93,
+      "distance": 3.93,
+      "road_type": "major",
+      "capacity": 683,
+      "delay": 0,
+      "source": "N12",
+      "target": "N13"
+    },
+    {
+      "weight": 4.19,
+      "distance": 4.19,
+      "road_type": "major",
+      "capacity": 330,
+      "delay": 0,
+      "source": "N12",
+      "target": "O12"
+    },
+    {
+      "weight": 1.2,
+      "distance": 1.2,
+      "road_type": "minor",
+      "capacity": 206,
+      "delay": 0,
+      "source": "N13",
+      "target": "N14"
+    },
+    {
+      "weight": 1.21,
+      "distance": 1.21,
+      "road_type": "minor",
+      "capacity": 222,
+      "delay": 0,
+      "source": "N13",
+      "target": "O13"
+    },
+    {
+      "weight": 1.75,
+      "distance": 1.75,
+      "road_type": "minor",
+      "capacity": 192,
+      "delay": 0,
+      "source": "N14",
+      "target": "N15"
+    },
+    {
+      "weight": 1.71,
+      "distance": 1.71,
+      "road_type": "minor",
+      "capacity": 269,
+      "delay": 0,
+      "source": "N14",
+      "target": "O14"
+    },
+    {
+      "weight": 4.68,
+      "distance": 4.68,
+      "road_type": "major",
+      "capacity": 392,
+      "delay": 0,
+      "source": "N15",
+      "target": "O15"
+    },
+    {
+      "weight": 1.95,
+      "distance": 1.95,
+      "road_type": "minor",
+      "capacity": 196,
+      "delay": 0,
+      "source": "O1",
+      "target": "O2"
+    },
+    {
+      "weight": 4.75,
+      "distance": 4.75,
+      "road_type": "major",
+      "capacity": 463,
+      "delay": 0,
+      "source": "O2",
+      "target": "O3"
+    },
+    {
+      "weight": 2.0,
+      "distance": 1.9,
+      "road_type": "minor",
+      "capacity": 282,
+      "delay": 0.1,
+      "source": "O3",
+      "target": "O4"
+    },
+    {
+      "weight": 1.4,
+      "distance": 1.4,
+      "road_type": "minor",
+      "capacity": 179,
+      "delay": 0,
+      "source": "O4",
+      "target": "O5"
+    },
+    {
+      "weight": 1.96,
+      "distance": 1.96,
+      "road_type": "minor",
+      "capacity": 102,
+      "delay": 0,
+      "source": "O5",
+      "target": "O6"
+    },
+    {
+      "weight": 3.8200000000000003,
+      "distance": 3.72,
+      "road_type": "major",
+      "capacity": 358,
+      "delay": 0.1,
+      "source": "O6",
+      "target": "O7"
+    },
+    {
+      "weight": 4.29,
+      "distance": 4.29,
+      "road_type": "major",
+      "capacity": 375,
+      "delay": 0,
+      "source": "O7",
+      "target": "O8"
+    },
+    {
+      "weight": 1.72,
+      "distance": 1.72,
+      "road_type": "minor",
+      "capacity": 213,
+      "delay": 0,
+      "source": "O8",
+      "target": "O9"
+    },
+    {
+      "weight": 1.67,
+      "distance": 1.67,
+      "road_type": "minor",
+      "capacity": 188,
+      "delay": 0,
+      "source": "O9",
+      "target": "O10"
+    },
+    {
+      "weight": 1.6600000000000001,
+      "distance": 1.56,
+      "road_type": "minor",
+      "capacity": 154,
+      "delay": 0.1,
+      "source": "O10",
+      "target": "O11"
+    },
+    {
+      "weight": 2.34,
+      "distance": 2.34,
+      "road_type": "major",
+      "capacity": 604,
+      "delay": 0,
+      "source": "O11",
+      "target": "O12"
+    },
+    {
+      "weight": 1.28,
+      "distance": 1.28,
+      "road_type": "minor",
+      "capacity": 121,
+      "delay": 0,
+      "source": "O12",
+      "target": "O13"
+    },
+    {
+      "weight": 1.79,
+      "distance": 1.69,
+      "road_type": "minor",
+      "capacity": 264,
+      "delay": 0.1,
+      "source": "O13",
+      "target": "O14"
+    },
+    {
+      "weight": 4.26,
+      "distance": 4.26,
+      "road_type": "major",
+      "capacity": 669,
+      "delay": 0,
+      "source": "O14",
+      "target": "O15"
+    }
+  ]
+}

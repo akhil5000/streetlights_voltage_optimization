@@ -1,0 +1,3413 @@
+{
+  "total_intersections": 225,
+  "total_roads": 420,
+  "total_streetlights": 1551,
+  "roads_without_streetlights": [],
+  "road_stats": {
+    "A1-A2": {
+      "length_km": 1.35,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.48,
+      "capacity": 180,
+      "delay": 0
+    },
+    "A1-B1": {
+      "length_km": 0.72,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.39,
+      "capacity": 127,
+      "delay": 0
+    },
+    "A2-A3": {
+      "length_km": 2.94,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.7,
+      "capacity": 395,
+      "delay": 0.1
+    },
+    "A2-B2": {
+      "length_km": 4.15,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.93,
+      "capacity": 410,
+      "delay": 0
+    },
+    "A3-A4": {
+      "length_km": 0.76,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.32,
+      "capacity": 250,
+      "delay": 0
+    },
+    "A3-B3": {
+      "length_km": 4.62,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 1.95,
+      "capacity": 556,
+      "delay": 0
+    },
+    "A4-A5": {
+      "length_km": 1.67,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.8,
+      "capacity": 174,
+      "delay": 0.1
+    },
+    "A4-B4": {
+      "length_km": 2.71,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.85,
+      "capacity": 402,
+      "delay": 0
+    },
+    "A5-A6": {
+      "length_km": 0.54,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.85,
+      "capacity": 124,
+      "delay": 0
+    },
+    "A5-B5": {
+      "length_km": 1.34,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.49,
+      "capacity": 186,
+      "delay": 0
+    },
+    "A6-A7": {
+      "length_km": 4.02,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.99,
+      "capacity": 773,
+      "delay": 0.1
+    },
+    "A6-B6": {
+      "length_km": 0.52,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.92,
+      "capacity": 159,
+      "delay": 0
+    },
+    "A7-A8": {
+      "length_km": 1.83,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.64,
+      "capacity": 197,
+      "delay": 0.1
+    },
+    "A7-B7": {
+      "length_km": 0.73,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.37,
+      "capacity": 268,
+      "delay": 0
+    },
+    "A8-A9": {
+      "length_km": 1.51,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.99,
+      "capacity": 119,
+      "delay": 0
+    },
+    "A8-B8": {
+      "length_km": 1.72,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.74,
+      "capacity": 223,
+      "delay": 0
+    },
+    "A9-A10": {
+      "length_km": 4.18,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.91,
+      "capacity": 512,
+      "delay": 0.1
+    },
+    "A9-B9": {
+      "length_km": 1.7,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.76,
+      "capacity": 160,
+      "delay": 0
+    },
+    "A10-A11": {
+      "length_km": 4.78,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 1.88,
+      "capacity": 584,
+      "delay": 0
+    },
+    "A10-B10": {
+      "length_km": 1.04,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.92,
+      "capacity": 259,
+      "delay": 0
+    },
+    "A11-A12": {
+      "length_km": 0.85,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.18,
+      "capacity": 136,
+      "delay": 0.1
+    },
+    "A11-B11": {
+      "length_km": 1.29,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.55,
+      "capacity": 137,
+      "delay": 0.1
+    },
+    "A12-A13": {
+      "length_km": 1.98,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.52,
+      "capacity": 300,
+      "delay": 0.1
+    },
+    "A12-B12": {
+      "length_km": 3.2,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.88,
+      "capacity": 639,
+      "delay": 0
+    },
+    "A13-A14": {
+      "length_km": 1.18,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.69,
+      "capacity": 160,
+      "delay": 0.1
+    },
+    "A13-B13": {
+      "length_km": 0.57,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.75,
+      "capacity": 161,
+      "delay": 0.1
+    },
+    "A14-A15": {
+      "length_km": 1.04,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.92,
+      "capacity": 278,
+      "delay": 0.1
+    },
+    "A14-B14": {
+      "length_km": 1.61,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.86,
+      "capacity": 125,
+      "delay": 0
+    },
+    "A15-B15": {
+      "length_km": 1.85,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.62,
+      "capacity": 156,
+      "delay": 0
+    },
+    "B1-B2": {
+      "length_km": 0.68,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.47,
+      "capacity": 175,
+      "delay": 0
+    },
+    "B1-C1": {
+      "length_km": 4.31,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.86,
+      "capacity": 686,
+      "delay": 0.1
+    },
+    "B2-B3": {
+      "length_km": 1.33,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.5,
+      "capacity": 273,
+      "delay": 0
+    },
+    "B2-C2": {
+      "length_km": 1.62,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.85,
+      "capacity": 290,
+      "delay": 0
+    },
+    "B3-B4": {
+      "length_km": 2.83,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.77,
+      "capacity": 361,
+      "delay": 0
+    },
+    "B3-C3": {
+      "length_km": 0.65,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.54,
+      "capacity": 140,
+      "delay": 0
+    },
+    "B4-B5": {
+      "length_km": 1.98,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.52,
+      "capacity": 262,
+      "delay": 0
+    },
+    "B4-C4": {
+      "length_km": 0.78,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.28,
+      "capacity": 140,
+      "delay": 0
+    },
+    "B5-B6": {
+      "length_km": 0.59,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.69,
+      "capacity": 236,
+      "delay": 0.1
+    },
+    "B5-C5": {
+      "length_km": 0.66,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.52,
+      "capacity": 145,
+      "delay": 0
+    },
+    "B6-B7": {
+      "length_km": 2.8,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.79,
+      "capacity": 582,
+      "delay": 0
+    },
+    "B6-C6": {
+      "length_km": 0.73,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.37,
+      "capacity": 157,
+      "delay": 0
+    },
+    "B7-B8": {
+      "length_km": 0.89,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.12,
+      "capacity": 195,
+      "delay": 0.1
+    },
+    "B7-C7": {
+      "length_km": 4.71,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 1.91,
+      "capacity": 462,
+      "delay": 0
+    },
+    "B8-B9": {
+      "length_km": 1.69,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.78,
+      "capacity": 207,
+      "delay": 0
+    },
+    "B8-C8": {
+      "length_km": 1.79,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.68,
+      "capacity": 244,
+      "delay": 0.1
+    },
+    "B9-B10": {
+      "length_km": 1.75,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.71,
+      "capacity": 142,
+      "delay": 0
+    },
+    "B9-C9": {
+      "length_km": 1.72,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.74,
+      "capacity": 244,
+      "delay": 0
+    },
+    "B10-B11": {
+      "length_km": 3.75,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.87,
+      "capacity": 389,
+      "delay": 0
+    },
+    "B10-C10": {
+      "length_km": 2.44,
+      "road_type": "major",
+      "streetlights": 4,
+      "lights_per_km": 1.64,
+      "capacity": 714,
+      "delay": 0
+    },
+    "B11-B12": {
+      "length_km": 0.56,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.79,
+      "capacity": 221,
+      "delay": 0
+    },
+    "B11-C11": {
+      "length_km": 2.46,
+      "road_type": "major",
+      "streetlights": 4,
+      "lights_per_km": 1.63,
+      "capacity": 713,
+      "delay": 0
+    },
+    "B12-B13": {
+      "length_km": 1.07,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.87,
+      "capacity": 264,
+      "delay": 0.1
+    },
+    "B12-C12": {
+      "length_km": 3.32,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.81,
+      "capacity": 496,
+      "delay": 0
+    },
+    "B13-B14": {
+      "length_km": 1.43,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.4,
+      "capacity": 119,
+      "delay": 0
+    },
+    "B13-C13": {
+      "length_km": 0.52,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.92,
+      "capacity": 132,
+      "delay": 0
+    },
+    "B14-B15": {
+      "length_km": 1.28,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.56,
+      "capacity": 202,
+      "delay": 0
+    },
+    "B14-C14": {
+      "length_km": 1.19,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.68,
+      "capacity": 240,
+      "delay": 0
+    },
+    "B15-C15": {
+      "length_km": 3.59,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.95,
+      "capacity": 742,
+      "delay": 0
+    },
+    "C1-C2": {
+      "length_km": 1.64,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.83,
+      "capacity": 235,
+      "delay": 0.1
+    },
+    "C1-D1": {
+      "length_km": 3.23,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 2.79,
+      "capacity": 627,
+      "delay": 0.1
+    },
+    "C2-C3": {
+      "length_km": 1.92,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.56,
+      "capacity": 195,
+      "delay": 0
+    },
+    "C2-D2": {
+      "length_km": 1.1,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.82,
+      "capacity": 135,
+      "delay": 0.1
+    },
+    "C3-C4": {
+      "length_km": 0.68,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.47,
+      "capacity": 198,
+      "delay": 0
+    },
+    "C3-D3": {
+      "length_km": 0.9,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.11,
+      "capacity": 157,
+      "delay": 0.1
+    },
+    "C4-C5": {
+      "length_km": 1.52,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.97,
+      "capacity": 195,
+      "delay": 0
+    },
+    "C4-D4": {
+      "length_km": 1.84,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.63,
+      "capacity": 134,
+      "delay": 0
+    },
+    "C5-C6": {
+      "length_km": 1.55,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.94,
+      "capacity": 192,
+      "delay": 0.1
+    },
+    "C5-D5": {
+      "length_km": 3.15,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.9,
+      "capacity": 509,
+      "delay": 0
+    },
+    "C6-C7": {
+      "length_km": 1.97,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.52,
+      "capacity": 131,
+      "delay": 0.1
+    },
+    "C6-D6": {
+      "length_km": 0.96,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.04,
+      "capacity": 138,
+      "delay": 0
+    },
+    "C7-C8": {
+      "length_km": 1.84,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.63,
+      "capacity": 191,
+      "delay": 0
+    },
+    "C7-D7": {
+      "length_km": 2.51,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.99,
+      "capacity": 623,
+      "delay": 0
+    },
+    "C8-C9": {
+      "length_km": 1.63,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.84,
+      "capacity": 266,
+      "delay": 0
+    },
+    "C8-D8": {
+      "length_km": 0.74,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.7,
+      "capacity": 198,
+      "delay": 0.1
+    },
+    "C9-C10": {
+      "length_km": 0.98,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.02,
+      "capacity": 125,
+      "delay": 0.1
+    },
+    "C9-D9": {
+      "length_km": 2.85,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.75,
+      "capacity": 632,
+      "delay": 0
+    },
+    "C10-C11": {
+      "length_km": 3.02,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.99,
+      "capacity": 677,
+      "delay": 0
+    },
+    "C10-D10": {
+      "length_km": 0.86,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.16,
+      "capacity": 215,
+      "delay": 0
+    },
+    "C11-C12": {
+      "length_km": 4.42,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.81,
+      "capacity": 551,
+      "delay": 0
+    },
+    "C11-D11": {
+      "length_km": 0.77,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.3,
+      "capacity": 279,
+      "delay": 0
+    },
+    "C12-C13": {
+      "length_km": 2.7,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.85,
+      "capacity": 387,
+      "delay": 0
+    },
+    "C12-D12": {
+      "length_km": 2.6,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 2.69,
+      "capacity": 730,
+      "delay": 0
+    },
+    "C13-C14": {
+      "length_km": 0.92,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.09,
+      "capacity": 181,
+      "delay": 0
+    },
+    "C13-D13": {
+      "length_km": 1.06,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.83,
+      "capacity": 176,
+      "delay": 0
+    },
+    "C14-C15": {
+      "length_km": 1.48,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.35,
+      "capacity": 234,
+      "delay": 0
+    },
+    "C14-D14": {
+      "length_km": 1.98,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.53,
+      "capacity": 245,
+      "delay": 0.1
+    },
+    "C15-D15": {
+      "length_km": 1.52,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.63,
+      "capacity": 215,
+      "delay": 0
+    },
+    "D1-D2": {
+      "length_km": 3.85,
+      "road_type": "major",
+      "streetlights": 11,
+      "lights_per_km": 2.86,
+      "capacity": 582,
+      "delay": 0
+    },
+    "D1-E1": {
+      "length_km": 1.33,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.26,
+      "capacity": 144,
+      "delay": 0
+    },
+    "D2-D3": {
+      "length_km": 0.66,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.52,
+      "capacity": 104,
+      "delay": 0
+    },
+    "D2-E2": {
+      "length_km": 1.93,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.59,
+      "capacity": 292,
+      "delay": 0
+    },
+    "D3-D4": {
+      "length_km": 1.84,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.63,
+      "capacity": 141,
+      "delay": 0
+    },
+    "D3-E3": {
+      "length_km": 0.5,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 2.0,
+      "capacity": 154,
+      "delay": 0
+    },
+    "D4-D5": {
+      "length_km": 4.8,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 1.88,
+      "capacity": 301,
+      "delay": 0
+    },
+    "D4-E4": {
+      "length_km": 4.47,
+      "road_type": "major",
+      "streetlights": 13,
+      "lights_per_km": 2.91,
+      "capacity": 415,
+      "delay": 0
+    },
+    "D5-D6": {
+      "length_km": 1.81,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.66,
+      "capacity": 210,
+      "delay": 0
+    },
+    "D5-E5": {
+      "length_km": 1.35,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.48,
+      "capacity": 106,
+      "delay": 0.1
+    },
+    "D6-D7": {
+      "length_km": 2.04,
+      "road_type": "major",
+      "streetlights": 4,
+      "lights_per_km": 1.96,
+      "capacity": 727,
+      "delay": 0
+    },
+    "D6-E6": {
+      "length_km": 0.52,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.92,
+      "capacity": 295,
+      "delay": 0
+    },
+    "D7-D8": {
+      "length_km": 3.09,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 2.91,
+      "capacity": 785,
+      "delay": 0
+    },
+    "D7-E7": {
+      "length_km": 1.52,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.97,
+      "capacity": 114,
+      "delay": 0
+    },
+    "D8-D9": {
+      "length_km": 4.19,
+      "road_type": "major",
+      "streetlights": 12,
+      "lights_per_km": 2.86,
+      "capacity": 341,
+      "delay": 0
+    },
+    "D8-E8": {
+      "length_km": 4.33,
+      "road_type": "major",
+      "streetlights": 12,
+      "lights_per_km": 2.77,
+      "capacity": 463,
+      "delay": 0
+    },
+    "D9-D10": {
+      "length_km": 1.21,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.83,
+      "capacity": 286,
+      "delay": 0
+    },
+    "D9-E9": {
+      "length_km": 1.54,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.95,
+      "capacity": 151,
+      "delay": 0
+    },
+    "D10-D11": {
+      "length_km": 2.28,
+      "road_type": "major",
+      "streetlights": 2,
+      "lights_per_km": 0.88,
+      "capacity": 566,
+      "delay": 0
+    },
+    "D10-E10": {
+      "length_km": 1.53,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.65,
+      "capacity": 243,
+      "delay": 0.1
+    },
+    "D11-D12": {
+      "length_km": 1.19,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.52,
+      "capacity": 281,
+      "delay": 0
+    },
+    "D11-E11": {
+      "length_km": 1.14,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.75,
+      "capacity": 181,
+      "delay": 0
+    },
+    "D12-D13": {
+      "length_km": 0.9,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.22,
+      "capacity": 103,
+      "delay": 0
+    },
+    "D12-E12": {
+      "length_km": 3.06,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 2.94,
+      "capacity": 700,
+      "delay": 0.1
+    },
+    "D13-D14": {
+      "length_km": 1.51,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.65,
+      "capacity": 299,
+      "delay": 0
+    },
+    "D13-E13": {
+      "length_km": 1.34,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.99,
+      "capacity": 233,
+      "delay": 0.1
+    },
+    "D14-D15": {
+      "length_km": 1.4,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.86,
+      "capacity": 252,
+      "delay": 0.1
+    },
+    "D14-E14": {
+      "length_km": 2.85,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 2.81,
+      "capacity": 456,
+      "delay": 0
+    },
+    "D15-E15": {
+      "length_km": 1.16,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.59,
+      "capacity": 175,
+      "delay": 0
+    },
+    "E1-E2": {
+      "length_km": 4.9,
+      "road_type": "major",
+      "streetlights": 14,
+      "lights_per_km": 2.86,
+      "capacity": 746,
+      "delay": 0
+    },
+    "E1-F1": {
+      "length_km": 3.21,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 2.8,
+      "capacity": 570,
+      "delay": 0.1
+    },
+    "E2-E3": {
+      "length_km": 3.02,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 2.98,
+      "capacity": 599,
+      "delay": 0.1
+    },
+    "E2-F2": {
+      "length_km": 1.28,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.34,
+      "capacity": 253,
+      "delay": 0.1
+    },
+    "E3-E4": {
+      "length_km": 1.31,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.29,
+      "capacity": 285,
+      "delay": 0
+    },
+    "E3-F3": {
+      "length_km": 3.51,
+      "road_type": "major",
+      "streetlights": 10,
+      "lights_per_km": 2.85,
+      "capacity": 722,
+      "delay": 0.1
+    },
+    "E4-E5": {
+      "length_km": 2.55,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 2.75,
+      "capacity": 353,
+      "delay": 0
+    },
+    "E4-F4": {
+      "length_km": 0.71,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.82,
+      "capacity": 300,
+      "delay": 0
+    },
+    "E5-E6": {
+      "length_km": 2.08,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 2.88,
+      "capacity": 481,
+      "delay": 0
+    },
+    "E5-F5": {
+      "length_km": 1.17,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.71,
+      "capacity": 275,
+      "delay": 0.1
+    },
+    "E6-E7": {
+      "length_km": 0.57,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.75,
+      "capacity": 146,
+      "delay": 0
+    },
+    "E6-F6": {
+      "length_km": 1.35,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.48,
+      "capacity": 268,
+      "delay": 0
+    },
+    "E7-E8": {
+      "length_km": 0.8,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.5,
+      "capacity": 241,
+      "delay": 0
+    },
+    "E7-F7": {
+      "length_km": 1.73,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.73,
+      "capacity": 194,
+      "delay": 0.1
+    },
+    "E8-E9": {
+      "length_km": 0.53,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.89,
+      "capacity": 107,
+      "delay": 0.1
+    },
+    "E8-F8": {
+      "length_km": 1.56,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.56,
+      "capacity": 118,
+      "delay": 0
+    },
+    "E9-E10": {
+      "length_km": 3.85,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.82,
+      "capacity": 311,
+      "delay": 0
+    },
+    "E9-F9": {
+      "length_km": 1.4,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.43,
+      "capacity": 114,
+      "delay": 0
+    },
+    "E10-E11": {
+      "length_km": 0.6,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.67,
+      "capacity": 245,
+      "delay": 0
+    },
+    "E10-F10": {
+      "length_km": 1.99,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.51,
+      "capacity": 114,
+      "delay": 0
+    },
+    "E11-E12": {
+      "length_km": 3.28,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 2.74,
+      "capacity": 389,
+      "delay": 0.1
+    },
+    "E11-F11": {
+      "length_km": 4.28,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.87,
+      "capacity": 396,
+      "delay": 0
+    },
+    "E12-E13": {
+      "length_km": 0.54,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.85,
+      "capacity": 179,
+      "delay": 0
+    },
+    "E12-F12": {
+      "length_km": 2.69,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 2.97,
+      "capacity": 420,
+      "delay": 0
+    },
+    "E13-E14": {
+      "length_km": 1.98,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.53,
+      "capacity": 176,
+      "delay": 0
+    },
+    "E13-F13": {
+      "length_km": 1.87,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.67,
+      "capacity": 173,
+      "delay": 0
+    },
+    "E14-E15": {
+      "length_km": 1.6,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.5,
+      "capacity": 227,
+      "delay": 0.1
+    },
+    "E14-F14": {
+      "length_km": 1.35,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.96,
+      "capacity": 148,
+      "delay": 0
+    },
+    "E15-F15": {
+      "length_km": 1.4,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.86,
+      "capacity": 176,
+      "delay": 0
+    },
+    "F1-F2": {
+      "length_km": 1.55,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.58,
+      "capacity": 221,
+      "delay": 0
+    },
+    "F1-G1": {
+      "length_km": 3.24,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 2.78,
+      "capacity": 344,
+      "delay": 0
+    },
+    "F2-F3": {
+      "length_km": 2.5,
+      "road_type": "major",
+      "streetlights": 2,
+      "lights_per_km": 0.8,
+      "capacity": 799,
+      "delay": 0.1
+    },
+    "F2-G2": {
+      "length_km": 4.3,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.86,
+      "capacity": 620,
+      "delay": 0
+    },
+    "F3-F4": {
+      "length_km": 2.79,
+      "road_type": "major",
+      "streetlights": 2,
+      "lights_per_km": 0.72,
+      "capacity": 514,
+      "delay": 0
+    },
+    "F3-G3": {
+      "length_km": 0.77,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.3,
+      "capacity": 175,
+      "delay": 0
+    },
+    "F4-F5": {
+      "length_km": 1.47,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.36,
+      "capacity": 108,
+      "delay": 0
+    },
+    "F4-G4": {
+      "length_km": 0.97,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.03,
+      "capacity": 186,
+      "delay": 0
+    },
+    "F5-F6": {
+      "length_km": 1.6,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.25,
+      "capacity": 216,
+      "delay": 0.1
+    },
+    "F5-G5": {
+      "length_km": 3.66,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.91,
+      "capacity": 606,
+      "delay": 0.1
+    },
+    "F6-F7": {
+      "length_km": 1.24,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.81,
+      "capacity": 266,
+      "delay": 0
+    },
+    "F6-G6": {
+      "length_km": 1.3,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.54,
+      "capacity": 122,
+      "delay": 0
+    },
+    "F7-F8": {
+      "length_km": 0.8,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.5,
+      "capacity": 219,
+      "delay": 0.1
+    },
+    "F7-G7": {
+      "length_km": 3.24,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.54,
+      "capacity": 475,
+      "delay": 0
+    },
+    "F8-F9": {
+      "length_km": 1.08,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.78,
+      "capacity": 162,
+      "delay": 0
+    },
+    "F8-G8": {
+      "length_km": 0.87,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.15,
+      "capacity": 218,
+      "delay": 0.1
+    },
+    "F9-F10": {
+      "length_km": 2.3,
+      "road_type": "major",
+      "streetlights": 4,
+      "lights_per_km": 1.74,
+      "capacity": 310,
+      "delay": 0
+    },
+    "F9-G9": {
+      "length_km": 1.47,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.36,
+      "capacity": 194,
+      "delay": 0
+    },
+    "F10-F11": {
+      "length_km": 1.69,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.78,
+      "capacity": 244,
+      "delay": 0
+    },
+    "F10-G10": {
+      "length_km": 2.92,
+      "road_type": "major",
+      "streetlights": 4,
+      "lights_per_km": 1.37,
+      "capacity": 542,
+      "delay": 0.1
+    },
+    "F11-F12": {
+      "length_km": 1.94,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.58,
+      "capacity": 145,
+      "delay": 0
+    },
+    "F11-G11": {
+      "length_km": 0.96,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.04,
+      "capacity": 197,
+      "delay": 0.1
+    },
+    "F12-F13": {
+      "length_km": 1.58,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.53,
+      "capacity": 162,
+      "delay": 0
+    },
+    "F12-G12": {
+      "length_km": 2.52,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 2.78,
+      "capacity": 761,
+      "delay": 0
+    },
+    "F13-F14": {
+      "length_km": 1.84,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.72,
+      "capacity": 280,
+      "delay": 0.1
+    },
+    "F13-G13": {
+      "length_km": 1.92,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.6,
+      "capacity": 137,
+      "delay": 0
+    },
+    "F14-F15": {
+      "length_km": 1.64,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.44,
+      "capacity": 262,
+      "delay": 0.1
+    },
+    "F14-G14": {
+      "length_km": 4.46,
+      "road_type": "major",
+      "streetlights": 13,
+      "lights_per_km": 2.91,
+      "capacity": 742,
+      "delay": 0.1
+    },
+    "F15-G15": {
+      "length_km": 0.84,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.38,
+      "capacity": 266,
+      "delay": 0
+    },
+    "G1-G2": {
+      "length_km": 4.33,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.85,
+      "capacity": 669,
+      "delay": 0.1
+    },
+    "G1-H1": {
+      "length_km": 1.43,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.4,
+      "capacity": 216,
+      "delay": 0
+    },
+    "G2-G3": {
+      "length_km": 0.95,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.05,
+      "capacity": 178,
+      "delay": 0
+    },
+    "G2-H2": {
+      "length_km": 1.48,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.68,
+      "capacity": 142,
+      "delay": 0
+    },
+    "G3-G4": {
+      "length_km": 4.27,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.87,
+      "capacity": 568,
+      "delay": 0.1
+    },
+    "G3-H3": {
+      "length_km": 1.0,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.0,
+      "capacity": 201,
+      "delay": 0
+    },
+    "G4-G5": {
+      "length_km": 1.34,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.49,
+      "capacity": 144,
+      "delay": 0
+    },
+    "G4-H4": {
+      "length_km": 0.76,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.32,
+      "capacity": 287,
+      "delay": 0
+    },
+    "G5-G6": {
+      "length_km": 1.83,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.73,
+      "capacity": 199,
+      "delay": 0
+    },
+    "G5-H5": {
+      "length_km": 1.62,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.23,
+      "capacity": 122,
+      "delay": 0
+    },
+    "G6-G7": {
+      "length_km": 1.29,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.55,
+      "capacity": 210,
+      "delay": 0.1
+    },
+    "G6-H6": {
+      "length_km": 1.95,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.56,
+      "capacity": 257,
+      "delay": 0
+    },
+    "G7-G8": {
+      "length_km": 0.97,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.03,
+      "capacity": 278,
+      "delay": 0.1
+    },
+    "G7-H7": {
+      "length_km": 0.82,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.22,
+      "capacity": 262,
+      "delay": 0.1
+    },
+    "G8-G9": {
+      "length_km": 1.83,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.09,
+      "capacity": 258,
+      "delay": 0
+    },
+    "G8-H8": {
+      "length_km": 2.37,
+      "road_type": "major",
+      "streetlights": 3,
+      "lights_per_km": 1.27,
+      "capacity": 476,
+      "delay": 0
+    },
+    "G9-G10": {
+      "length_km": 2.39,
+      "road_type": "major",
+      "streetlights": 3,
+      "lights_per_km": 1.26,
+      "capacity": 652,
+      "delay": 0
+    },
+    "G9-H9": {
+      "length_km": 0.96,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.04,
+      "capacity": 119,
+      "delay": 0.1
+    },
+    "G10-G11": {
+      "length_km": 0.54,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.85,
+      "capacity": 236,
+      "delay": 0
+    },
+    "G10-H10": {
+      "length_km": 1.05,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.95,
+      "capacity": 158,
+      "delay": 0.1
+    },
+    "G11-G12": {
+      "length_km": 1.66,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.41,
+      "capacity": 180,
+      "delay": 0.1
+    },
+    "G11-H11": {
+      "length_km": 3.37,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.78,
+      "capacity": 499,
+      "delay": 0
+    },
+    "G12-G13": {
+      "length_km": 1.74,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.87,
+      "capacity": 131,
+      "delay": 0.1
+    },
+    "G12-H12": {
+      "length_km": 4.07,
+      "road_type": "major",
+      "streetlights": 12,
+      "lights_per_km": 2.95,
+      "capacity": 638,
+      "delay": 0
+    },
+    "G13-G14": {
+      "length_km": 3.22,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 2.8,
+      "capacity": 747,
+      "delay": 0
+    },
+    "G13-H13": {
+      "length_km": 1.24,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.42,
+      "capacity": 161,
+      "delay": 0
+    },
+    "G14-G15": {
+      "length_km": 2.29,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 2.62,
+      "capacity": 322,
+      "delay": 0.1
+    },
+    "G14-H14": {
+      "length_km": 2.0,
+      "road_type": "minor",
+      "streetlights": 6,
+      "lights_per_km": 3.0,
+      "capacity": 284,
+      "delay": 0
+    },
+    "G15-H15": {
+      "length_km": 0.89,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.25,
+      "capacity": 244,
+      "delay": 0
+    },
+    "H1-H2": {
+      "length_km": 1.33,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.5,
+      "capacity": 266,
+      "delay": 0
+    },
+    "H1-I1": {
+      "length_km": 3.43,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.46,
+      "capacity": 650,
+      "delay": 0
+    },
+    "H2-H3": {
+      "length_km": 1.93,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.52,
+      "capacity": 281,
+      "delay": 0
+    },
+    "H2-I2": {
+      "length_km": 3.69,
+      "road_type": "major",
+      "streetlights": 3,
+      "lights_per_km": 0.81,
+      "capacity": 484,
+      "delay": 0
+    },
+    "H3-H4": {
+      "length_km": 1.93,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.55,
+      "capacity": 132,
+      "delay": 0.1
+    },
+    "H3-I3": {
+      "length_km": 1.3,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.54,
+      "capacity": 155,
+      "delay": 0.1
+    },
+    "H4-H5": {
+      "length_km": 0.68,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.47,
+      "capacity": 215,
+      "delay": 0.1
+    },
+    "H4-I4": {
+      "length_km": 1.67,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.2,
+      "capacity": 222,
+      "delay": 0
+    },
+    "H5-H6": {
+      "length_km": 4.7,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.49,
+      "capacity": 450,
+      "delay": 0.1
+    },
+    "H5-I5": {
+      "length_km": 0.96,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.04,
+      "capacity": 213,
+      "delay": 0
+    },
+    "H6-H7": {
+      "length_km": 1.79,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.68,
+      "capacity": 160,
+      "delay": 0
+    },
+    "H6-I6": {
+      "length_km": 4.59,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 1.96,
+      "capacity": 745,
+      "delay": 0
+    },
+    "H7-H8": {
+      "length_km": 1.02,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.94,
+      "capacity": 197,
+      "delay": 0
+    },
+    "H7-I7": {
+      "length_km": 0.99,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.02,
+      "capacity": 263,
+      "delay": 0
+    },
+    "H8-H9": {
+      "length_km": 1.33,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.26,
+      "capacity": 189,
+      "delay": 0
+    },
+    "H8-I8": {
+      "length_km": 1.7,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.18,
+      "capacity": 166,
+      "delay": 0.1
+    },
+    "H9-H10": {
+      "length_km": 1.43,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.4,
+      "capacity": 105,
+      "delay": 0.1
+    },
+    "H9-I9": {
+      "length_km": 1.59,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.89,
+      "capacity": 196,
+      "delay": 0
+    },
+    "H10-H11": {
+      "length_km": 0.81,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.23,
+      "capacity": 298,
+      "delay": 0
+    },
+    "H10-I10": {
+      "length_km": 0.99,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.01,
+      "capacity": 146,
+      "delay": 0
+    },
+    "H11-H12": {
+      "length_km": 1.18,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.54,
+      "capacity": 275,
+      "delay": 0.1
+    },
+    "H11-I11": {
+      "length_km": 1.12,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.68,
+      "capacity": 202,
+      "delay": 0
+    },
+    "H12-H13": {
+      "length_km": 1.0,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 3.0,
+      "capacity": 140,
+      "delay": 0
+    },
+    "H12-I12": {
+      "length_km": 3.97,
+      "road_type": "major",
+      "streetlights": 11,
+      "lights_per_km": 2.77,
+      "capacity": 518,
+      "delay": 0
+    },
+    "H13-H14": {
+      "length_km": 0.68,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.94,
+      "capacity": 249,
+      "delay": 0
+    },
+    "H13-I13": {
+      "length_km": 3.43,
+      "road_type": "major",
+      "streetlights": 10,
+      "lights_per_km": 2.92,
+      "capacity": 539,
+      "delay": 0
+    },
+    "H14-H15": {
+      "length_km": 3.94,
+      "road_type": "major",
+      "streetlights": 11,
+      "lights_per_km": 2.79,
+      "capacity": 330,
+      "delay": 0.1
+    },
+    "H14-I14": {
+      "length_km": 0.69,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.9,
+      "capacity": 254,
+      "delay": 0
+    },
+    "H15-I15": {
+      "length_km": 2.77,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 2.89,
+      "capacity": 780,
+      "delay": 0
+    },
+    "I1-I2": {
+      "length_km": 1.16,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.59,
+      "capacity": 167,
+      "delay": 0.1
+    },
+    "I1-J1": {
+      "length_km": 2.0,
+      "road_type": "minor",
+      "streetlights": 6,
+      "lights_per_km": 3.0,
+      "capacity": 189,
+      "delay": 0.1
+    },
+    "I2-I3": {
+      "length_km": 1.88,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.6,
+      "capacity": 124,
+      "delay": 0
+    },
+    "I2-J2": {
+      "length_km": 1.58,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.9,
+      "capacity": 191,
+      "delay": 0
+    },
+    "I3-I4": {
+      "length_km": 1.19,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.84,
+      "capacity": 204,
+      "delay": 0
+    },
+    "I3-J3": {
+      "length_km": 1.1,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.91,
+      "capacity": 145,
+      "delay": 0
+    },
+    "I4-I5": {
+      "length_km": 1.82,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.1,
+      "capacity": 290,
+      "delay": 0
+    },
+    "I4-J4": {
+      "length_km": 1.4,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.43,
+      "capacity": 178,
+      "delay": 0
+    },
+    "I5-I6": {
+      "length_km": 0.84,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.19,
+      "capacity": 138,
+      "delay": 0
+    },
+    "I5-J5": {
+      "length_km": 1.4,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.43,
+      "capacity": 299,
+      "delay": 0.1
+    },
+    "I6-I7": {
+      "length_km": 1.45,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.76,
+      "capacity": 191,
+      "delay": 0.1
+    },
+    "I6-J6": {
+      "length_km": 1.46,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.37,
+      "capacity": 161,
+      "delay": 0
+    },
+    "I7-I8": {
+      "length_km": 1.19,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.84,
+      "capacity": 135,
+      "delay": 0
+    },
+    "I7-J7": {
+      "length_km": 0.68,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.94,
+      "capacity": 181,
+      "delay": 0.1
+    },
+    "I8-I9": {
+      "length_km": 0.51,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.96,
+      "capacity": 281,
+      "delay": 0.1
+    },
+    "I8-J8": {
+      "length_km": 3.31,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.51,
+      "capacity": 720,
+      "delay": 0
+    },
+    "I9-I10": {
+      "length_km": 1.25,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.6,
+      "capacity": 255,
+      "delay": 0
+    },
+    "I9-J9": {
+      "length_km": 1.09,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.83,
+      "capacity": 133,
+      "delay": 0
+    },
+    "I10-I11": {
+      "length_km": 1.24,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.42,
+      "capacity": 130,
+      "delay": 0
+    },
+    "I10-J10": {
+      "length_km": 4.4,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.82,
+      "capacity": 734,
+      "delay": 0
+    },
+    "I11-I12": {
+      "length_km": 1.38,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.9,
+      "capacity": 246,
+      "delay": 0
+    },
+    "I11-J11": {
+      "length_km": 1.42,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.82,
+      "capacity": 135,
+      "delay": 0
+    },
+    "I12-I13": {
+      "length_km": 2.93,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 2.73,
+      "capacity": 588,
+      "delay": 0.1
+    },
+    "I12-J12": {
+      "length_km": 0.89,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.25,
+      "capacity": 162,
+      "delay": 0.1
+    },
+    "I13-I14": {
+      "length_km": 1.25,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.4,
+      "capacity": 157,
+      "delay": 0
+    },
+    "I13-J13": {
+      "length_km": 1.06,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.83,
+      "capacity": 110,
+      "delay": 0.1
+    },
+    "I14-I15": {
+      "length_km": 4.83,
+      "road_type": "major",
+      "streetlights": 14,
+      "lights_per_km": 2.9,
+      "capacity": 449,
+      "delay": 0
+    },
+    "I14-J14": {
+      "length_km": 1.46,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.74,
+      "capacity": 234,
+      "delay": 0
+    },
+    "I15-J15": {
+      "length_km": 1.64,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.44,
+      "capacity": 180,
+      "delay": 0
+    },
+    "J1-J2": {
+      "length_km": 1.81,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.66,
+      "capacity": 148,
+      "delay": 0
+    },
+    "J1-K1": {
+      "length_km": 3.4,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.76,
+      "capacity": 490,
+      "delay": 0
+    },
+    "J2-J3": {
+      "length_km": 2.58,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.94,
+      "capacity": 745,
+      "delay": 0
+    },
+    "J2-K2": {
+      "length_km": 0.8,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.25,
+      "capacity": 151,
+      "delay": 0.1
+    },
+    "J3-J4": {
+      "length_km": 1.4,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.86,
+      "capacity": 298,
+      "delay": 0
+    },
+    "J3-K3": {
+      "length_km": 1.56,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.92,
+      "capacity": 167,
+      "delay": 0
+    },
+    "J4-J5": {
+      "length_km": 0.61,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.64,
+      "capacity": 295,
+      "delay": 0.1
+    },
+    "J4-K4": {
+      "length_km": 0.94,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.13,
+      "capacity": 125,
+      "delay": 0.1
+    },
+    "J5-J6": {
+      "length_km": 1.53,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.96,
+      "capacity": 173,
+      "delay": 0.1
+    },
+    "J5-K5": {
+      "length_km": 0.57,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.75,
+      "capacity": 176,
+      "delay": 0
+    },
+    "J6-J7": {
+      "length_km": 1.38,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.45,
+      "capacity": 286,
+      "delay": 0.1
+    },
+    "J6-K6": {
+      "length_km": 1.83,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.55,
+      "capacity": 180,
+      "delay": 0
+    },
+    "J7-J8": {
+      "length_km": 2.95,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.69,
+      "capacity": 459,
+      "delay": 0.1
+    },
+    "J7-K7": {
+      "length_km": 4.14,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.45,
+      "capacity": 585,
+      "delay": 0
+    },
+    "J8-J9": {
+      "length_km": 3.71,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.89,
+      "capacity": 328,
+      "delay": 0.1
+    },
+    "J8-K8": {
+      "length_km": 1.55,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.94,
+      "capacity": 238,
+      "delay": 0
+    },
+    "J9-J10": {
+      "length_km": 3.87,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.81,
+      "capacity": 434,
+      "delay": 0
+    },
+    "J9-K9": {
+      "length_km": 0.6,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.67,
+      "capacity": 246,
+      "delay": 0
+    },
+    "J10-J11": {
+      "length_km": 4.19,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.91,
+      "capacity": 360,
+      "delay": 0
+    },
+    "J10-K10": {
+      "length_km": 0.78,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.56,
+      "capacity": 203,
+      "delay": 0.1
+    },
+    "J11-J12": {
+      "length_km": 1.12,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.68,
+      "capacity": 216,
+      "delay": 0
+    },
+    "J11-K11": {
+      "length_km": 1.77,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.69,
+      "capacity": 119,
+      "delay": 0
+    },
+    "J12-J13": {
+      "length_km": 1.7,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.94,
+      "capacity": 138,
+      "delay": 0
+    },
+    "J12-K12": {
+      "length_km": 1.58,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.53,
+      "capacity": 289,
+      "delay": 0
+    },
+    "J13-J14": {
+      "length_km": 4.6,
+      "road_type": "major",
+      "streetlights": 13,
+      "lights_per_km": 2.83,
+      "capacity": 448,
+      "delay": 0
+    },
+    "J13-K13": {
+      "length_km": 0.91,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.2,
+      "capacity": 249,
+      "delay": 0
+    },
+    "J14-J15": {
+      "length_km": 0.67,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.99,
+      "capacity": 228,
+      "delay": 0
+    },
+    "J14-K14": {
+      "length_km": 1.82,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.75,
+      "capacity": 293,
+      "delay": 0.1
+    },
+    "J15-K15": {
+      "length_km": 1.39,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.88,
+      "capacity": 182,
+      "delay": 0
+    },
+    "K1-K2": {
+      "length_km": 4.47,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.79,
+      "capacity": 638,
+      "delay": 0.1
+    },
+    "K1-L1": {
+      "length_km": 3.19,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 2.82,
+      "capacity": 671,
+      "delay": 0
+    },
+    "K2-K3": {
+      "length_km": 2.43,
+      "road_type": "major",
+      "streetlights": 4,
+      "lights_per_km": 1.65,
+      "capacity": 326,
+      "delay": 0
+    },
+    "K2-L2": {
+      "length_km": 0.92,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.17,
+      "capacity": 217,
+      "delay": 0
+    },
+    "K3-K4": {
+      "length_km": 1.05,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.9,
+      "capacity": 161,
+      "delay": 0
+    },
+    "K3-L3": {
+      "length_km": 1.99,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.51,
+      "capacity": 263,
+      "delay": 0
+    },
+    "K4-K5": {
+      "length_km": 1.6,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.88,
+      "capacity": 189,
+      "delay": 0
+    },
+    "K4-L4": {
+      "length_km": 4.97,
+      "road_type": "major",
+      "streetlights": 4,
+      "lights_per_km": 0.8,
+      "capacity": 597,
+      "delay": 0.1
+    },
+    "K5-K6": {
+      "length_km": 1.11,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.9,
+      "capacity": 211,
+      "delay": 0
+    },
+    "K5-L5": {
+      "length_km": 0.9,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.22,
+      "capacity": 216,
+      "delay": 0
+    },
+    "K6-K7": {
+      "length_km": 4.97,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.41,
+      "capacity": 755,
+      "delay": 0
+    },
+    "K6-L6": {
+      "length_km": 0.52,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.92,
+      "capacity": 153,
+      "delay": 0
+    },
+    "K7-K8": {
+      "length_km": 0.62,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.61,
+      "capacity": 271,
+      "delay": 0
+    },
+    "K7-L7": {
+      "length_km": 2.0,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.5,
+      "capacity": 226,
+      "delay": 0.1
+    },
+    "K8-K9": {
+      "length_km": 4.03,
+      "road_type": "major",
+      "streetlights": 8,
+      "lights_per_km": 1.99,
+      "capacity": 421,
+      "delay": 0
+    },
+    "K8-L8": {
+      "length_km": 1.45,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.76,
+      "capacity": 164,
+      "delay": 0.1
+    },
+    "K9-K10": {
+      "length_km": 1.41,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.84,
+      "capacity": 236,
+      "delay": 0.1
+    },
+    "K9-L9": {
+      "length_km": 1.29,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.55,
+      "capacity": 169,
+      "delay": 0
+    },
+    "K10-K11": {
+      "length_km": 1.79,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.79,
+      "capacity": 290,
+      "delay": 0
+    },
+    "K10-L10": {
+      "length_km": 0.88,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.27,
+      "capacity": 178,
+      "delay": 0
+    },
+    "K11-K12": {
+      "length_km": 0.74,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.7,
+      "capacity": 274,
+      "delay": 0
+    },
+    "K11-L11": {
+      "length_km": 1.09,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.75,
+      "capacity": 273,
+      "delay": 0
+    },
+    "K12-K13": {
+      "length_km": 1.08,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.78,
+      "capacity": 278,
+      "delay": 0
+    },
+    "K12-L12": {
+      "length_km": 0.82,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.44,
+      "capacity": 142,
+      "delay": 0.1
+    },
+    "K13-K14": {
+      "length_km": 1.35,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.96,
+      "capacity": 155,
+      "delay": 0.1
+    },
+    "K13-L13": {
+      "length_km": 1.74,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.87,
+      "capacity": 122,
+      "delay": 0
+    },
+    "K14-K15": {
+      "length_km": 1.68,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.98,
+      "capacity": 270,
+      "delay": 0.1
+    },
+    "K14-L14": {
+      "length_km": 0.65,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.54,
+      "capacity": 233,
+      "delay": 0.1
+    },
+    "K15-L15": {
+      "length_km": 2.0,
+      "road_type": "minor",
+      "streetlights": 6,
+      "lights_per_km": 3.0,
+      "capacity": 275,
+      "delay": 0
+    },
+    "L1-L2": {
+      "length_km": 2.44,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 2.87,
+      "capacity": 367,
+      "delay": 0.1
+    },
+    "L1-M1": {
+      "length_km": 1.38,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.9,
+      "capacity": 251,
+      "delay": 0
+    },
+    "L2-L3": {
+      "length_km": 3.7,
+      "road_type": "major",
+      "streetlights": 11,
+      "lights_per_km": 2.97,
+      "capacity": 479,
+      "delay": 0
+    },
+    "L2-M2": {
+      "length_km": 0.55,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.82,
+      "capacity": 287,
+      "delay": 0
+    },
+    "L3-L4": {
+      "length_km": 2.55,
+      "road_type": "major",
+      "streetlights": 2,
+      "lights_per_km": 0.78,
+      "capacity": 396,
+      "delay": 0
+    },
+    "L3-M3": {
+      "length_km": 3.47,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.73,
+      "capacity": 724,
+      "delay": 0
+    },
+    "L4-L5": {
+      "length_km": 1.24,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.42,
+      "capacity": 286,
+      "delay": 0.1
+    },
+    "L4-M4": {
+      "length_km": 2.64,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 2.65,
+      "capacity": 764,
+      "delay": 0
+    },
+    "L5-L6": {
+      "length_km": 1.98,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.52,
+      "capacity": 114,
+      "delay": 0.1
+    },
+    "L5-M5": {
+      "length_km": 1.74,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.15,
+      "capacity": 179,
+      "delay": 0
+    },
+    "L6-L7": {
+      "length_km": 0.7,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.43,
+      "capacity": 271,
+      "delay": 0.1
+    },
+    "L6-M6": {
+      "length_km": 0.94,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.06,
+      "capacity": 172,
+      "delay": 0
+    },
+    "L7-L8": {
+      "length_km": 3.24,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 2.78,
+      "capacity": 639,
+      "delay": 0
+    },
+    "L7-M7": {
+      "length_km": 0.65,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.54,
+      "capacity": 180,
+      "delay": 0
+    },
+    "L8-L9": {
+      "length_km": 3.55,
+      "road_type": "major",
+      "streetlights": 10,
+      "lights_per_km": 2.82,
+      "capacity": 367,
+      "delay": 0
+    },
+    "L8-M8": {
+      "length_km": 0.7,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.43,
+      "capacity": 112,
+      "delay": 0
+    },
+    "L9-L10": {
+      "length_km": 1.04,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.92,
+      "capacity": 172,
+      "delay": 0
+    },
+    "L9-M9": {
+      "length_km": 0.68,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.94,
+      "capacity": 149,
+      "delay": 0
+    },
+    "L10-L11": {
+      "length_km": 0.82,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.44,
+      "capacity": 228,
+      "delay": 0
+    },
+    "L10-M10": {
+      "length_km": 1.75,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.71,
+      "capacity": 188,
+      "delay": 0
+    },
+    "L11-L12": {
+      "length_km": 3.06,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 2.94,
+      "capacity": 477,
+      "delay": 0
+    },
+    "L11-M11": {
+      "length_km": 1.94,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.58,
+      "capacity": 233,
+      "delay": 0
+    },
+    "L12-L13": {
+      "length_km": 1.49,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.68,
+      "capacity": 213,
+      "delay": 0
+    },
+    "L12-M12": {
+      "length_km": 0.64,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.56,
+      "capacity": 254,
+      "delay": 0
+    },
+    "L13-L14": {
+      "length_km": 1.39,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.88,
+      "capacity": 179,
+      "delay": 0
+    },
+    "L13-M13": {
+      "length_km": 4.24,
+      "road_type": "major",
+      "streetlights": 12,
+      "lights_per_km": 2.83,
+      "capacity": 642,
+      "delay": 0
+    },
+    "L14-L15": {
+      "length_km": 3.16,
+      "road_type": "major",
+      "streetlights": 9,
+      "lights_per_km": 2.85,
+      "capacity": 415,
+      "delay": 0
+    },
+    "L14-M14": {
+      "length_km": 0.98,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 2.04,
+      "capacity": 118,
+      "delay": 0.1
+    },
+    "L15-M15": {
+      "length_km": 1.21,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.48,
+      "capacity": 264,
+      "delay": 0.1
+    },
+    "M1-M2": {
+      "length_km": 0.68,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.47,
+      "capacity": 214,
+      "delay": 0.1
+    },
+    "M1-N1": {
+      "length_km": 1.18,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.85,
+      "capacity": 156,
+      "delay": 0
+    },
+    "M2-M3": {
+      "length_km": 1.07,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.87,
+      "capacity": 199,
+      "delay": 0
+    },
+    "M2-N2": {
+      "length_km": 1.34,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.49,
+      "capacity": 178,
+      "delay": 0.1
+    },
+    "M3-M4": {
+      "length_km": 1.74,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.87,
+      "capacity": 281,
+      "delay": 0.1
+    },
+    "M3-N3": {
+      "length_km": 0.74,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.35,
+      "capacity": 292,
+      "delay": 0.1
+    },
+    "M4-M5": {
+      "length_km": 1.25,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.6,
+      "capacity": 284,
+      "delay": 0
+    },
+    "M4-N4": {
+      "length_km": 4.68,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.5,
+      "capacity": 341,
+      "delay": 0.1
+    },
+    "M5-M6": {
+      "length_km": 3.47,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.44,
+      "capacity": 447,
+      "delay": 0.1
+    },
+    "M5-N5": {
+      "length_km": 1.81,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.1,
+      "capacity": 289,
+      "delay": 0
+    },
+    "M6-M7": {
+      "length_km": 1.94,
+      "road_type": "minor",
+      "streetlights": 5,
+      "lights_per_km": 2.58,
+      "capacity": 171,
+      "delay": 0
+    },
+    "M6-N6": {
+      "length_km": 0.74,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.35,
+      "capacity": 250,
+      "delay": 0.1
+    },
+    "M7-M8": {
+      "length_km": 1.73,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.16,
+      "capacity": 157,
+      "delay": 0
+    },
+    "M7-N7": {
+      "length_km": 1.28,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.56,
+      "capacity": 256,
+      "delay": 0.1
+    },
+    "M8-M9": {
+      "length_km": 1.15,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.87,
+      "capacity": 277,
+      "delay": 0.1
+    },
+    "M8-N8": {
+      "length_km": 1.74,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.15,
+      "capacity": 106,
+      "delay": 0
+    },
+    "M9-M10": {
+      "length_km": 1.09,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 2.75,
+      "capacity": 182,
+      "delay": 0.1
+    },
+    "M9-N9": {
+      "length_km": 1.94,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.55,
+      "capacity": 265,
+      "delay": 0.1
+    },
+    "M10-M11": {
+      "length_km": 1.57,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.64,
+      "capacity": 143,
+      "delay": 0
+    },
+    "M10-N10": {
+      "length_km": 1.23,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.81,
+      "capacity": 192,
+      "delay": 0.1
+    },
+    "M11-M12": {
+      "length_km": 1.57,
+      "road_type": "minor",
+      "streetlights": 4,
+      "lights_per_km": 2.55,
+      "capacity": 134,
+      "delay": 0
+    },
+    "M11-N11": {
+      "length_km": 1.58,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.27,
+      "capacity": 120,
+      "delay": 0.1
+    },
+    "M12-M13": {
+      "length_km": 3.36,
+      "road_type": "major",
+      "streetlights": 10,
+      "lights_per_km": 2.98,
+      "capacity": 481,
+      "delay": 0.1
+    },
+    "M12-N12": {
+      "length_km": 1.73,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.16,
+      "capacity": 265,
+      "delay": 0
+    },
+    "M13-M14": {
+      "length_km": 3.91,
+      "road_type": "major",
+      "streetlights": 11,
+      "lights_per_km": 2.81,
+      "capacity": 478,
+      "delay": 0
+    },
+    "M13-N13": {
+      "length_km": 1.07,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.93,
+      "capacity": 126,
+      "delay": 0
+    },
+    "M14-M15": {
+      "length_km": 0.53,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.89,
+      "capacity": 193,
+      "delay": 0
+    },
+    "M14-N14": {
+      "length_km": 0.89,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.12,
+      "capacity": 182,
+      "delay": 0.1
+    },
+    "M15-N15": {
+      "length_km": 3.9,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.54,
+      "capacity": 505,
+      "delay": 0.1
+    },
+    "N1-N2": {
+      "length_km": 1.83,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.09,
+      "capacity": 139,
+      "delay": 0.1
+    },
+    "N1-O1": {
+      "length_km": 1.05,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.95,
+      "capacity": 207,
+      "delay": 0.1
+    },
+    "N2-N3": {
+      "length_km": 0.93,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.08,
+      "capacity": 126,
+      "delay": 0
+    },
+    "N2-O2": {
+      "length_km": 1.6,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.25,
+      "capacity": 234,
+      "delay": 0.1
+    },
+    "N3-N4": {
+      "length_km": 1.83,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.09,
+      "capacity": 248,
+      "delay": 0.1
+    },
+    "N3-O3": {
+      "length_km": 1.5,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.33,
+      "capacity": 234,
+      "delay": 0.1
+    },
+    "N4-N5": {
+      "length_km": 2.4,
+      "road_type": "major",
+      "streetlights": 3,
+      "lights_per_km": 1.25,
+      "capacity": 522,
+      "delay": 0
+    },
+    "N4-O4": {
+      "length_km": 0.79,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.27,
+      "capacity": 102,
+      "delay": 0.1
+    },
+    "N5-N6": {
+      "length_km": 4.39,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.59,
+      "capacity": 785,
+      "delay": 0.1
+    },
+    "N5-O5": {
+      "length_km": 1.62,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.23,
+      "capacity": 146,
+      "delay": 0.1
+    },
+    "N6-N7": {
+      "length_km": 0.52,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.92,
+      "capacity": 135,
+      "delay": 0
+    },
+    "N6-O6": {
+      "length_km": 1.08,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.93,
+      "capacity": 253,
+      "delay": 0.1
+    },
+    "N7-N8": {
+      "length_km": 0.63,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.59,
+      "capacity": 278,
+      "delay": 0
+    },
+    "N7-O7": {
+      "length_km": 1.54,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.3,
+      "capacity": 129,
+      "delay": 0
+    },
+    "N8-N9": {
+      "length_km": 1.94,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.55,
+      "capacity": 266,
+      "delay": 0
+    },
+    "N8-O8": {
+      "length_km": 0.52,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 1.92,
+      "capacity": 165,
+      "delay": 0
+    },
+    "N9-N10": {
+      "length_km": 1.67,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.2,
+      "capacity": 262,
+      "delay": 0
+    },
+    "N9-O9": {
+      "length_km": 1.1,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.91,
+      "capacity": 117,
+      "delay": 0
+    },
+    "N10-N11": {
+      "length_km": 4.46,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.57,
+      "capacity": 395,
+      "delay": 0.1
+    },
+    "N10-O10": {
+      "length_km": 1.35,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.48,
+      "capacity": 119,
+      "delay": 0.1
+    },
+    "N11-N12": {
+      "length_km": 1.68,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.19,
+      "capacity": 230,
+      "delay": 0
+    },
+    "N11-O11": {
+      "length_km": 3.59,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.39,
+      "capacity": 526,
+      "delay": 0
+    },
+    "N12-N13": {
+      "length_km": 3.93,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.53,
+      "capacity": 683,
+      "delay": 0
+    },
+    "N12-O12": {
+      "length_km": 4.19,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.43,
+      "capacity": 330,
+      "delay": 0
+    },
+    "N13-N14": {
+      "length_km": 1.2,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.83,
+      "capacity": 206,
+      "delay": 0
+    },
+    "N13-O13": {
+      "length_km": 1.21,
+      "road_type": "minor",
+      "streetlights": 1,
+      "lights_per_km": 0.83,
+      "capacity": 222,
+      "delay": 0
+    },
+    "N14-N15": {
+      "length_km": 1.75,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.14,
+      "capacity": 192,
+      "delay": 0
+    },
+    "N14-O14": {
+      "length_km": 1.71,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.17,
+      "capacity": 269,
+      "delay": 0
+    },
+    "N15-O15": {
+      "length_km": 4.68,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.5,
+      "capacity": 392,
+      "delay": 0
+    },
+    "O1-O2": {
+      "length_km": 1.95,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.54,
+      "capacity": 196,
+      "delay": 0
+    },
+    "O2-O3": {
+      "length_km": 4.75,
+      "road_type": "major",
+      "streetlights": 7,
+      "lights_per_km": 1.47,
+      "capacity": 463,
+      "delay": 0
+    },
+    "O3-O4": {
+      "length_km": 1.9,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.58,
+      "capacity": 282,
+      "delay": 0.1
+    },
+    "O4-O5": {
+      "length_km": 1.4,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.43,
+      "capacity": 179,
+      "delay": 0
+    },
+    "O5-O6": {
+      "length_km": 1.96,
+      "road_type": "minor",
+      "streetlights": 3,
+      "lights_per_km": 1.53,
+      "capacity": 102,
+      "delay": 0
+    },
+    "O6-O7": {
+      "length_km": 3.72,
+      "road_type": "major",
+      "streetlights": 5,
+      "lights_per_km": 1.34,
+      "capacity": 358,
+      "delay": 0.1
+    },
+    "O7-O8": {
+      "length_km": 4.29,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.4,
+      "capacity": 375,
+      "delay": 0
+    },
+    "O8-O9": {
+      "length_km": 1.72,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.16,
+      "capacity": 213,
+      "delay": 0
+    },
+    "O9-O10": {
+      "length_km": 1.67,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.2,
+      "capacity": 188,
+      "delay": 0
+    },
+    "O10-O11": {
+      "length_km": 1.56,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.28,
+      "capacity": 154,
+      "delay": 0.1
+    },
+    "O11-O12": {
+      "length_km": 2.34,
+      "road_type": "major",
+      "streetlights": 3,
+      "lights_per_km": 1.28,
+      "capacity": 604,
+      "delay": 0
+    },
+    "O12-O13": {
+      "length_km": 1.28,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.56,
+      "capacity": 121,
+      "delay": 0
+    },
+    "O13-O14": {
+      "length_km": 1.69,
+      "road_type": "minor",
+      "streetlights": 2,
+      "lights_per_km": 1.18,
+      "capacity": 264,
+      "delay": 0.1
+    },
+    "O14-O15": {
+      "length_km": 4.26,
+      "road_type": "major",
+      "streetlights": 6,
+      "lights_per_km": 1.41,
+      "capacity": 669,
+      "delay": 0
+    }
+  },
+  "type_stats": {
+    "minor": {
+      "lights": 710,
+      "length": 388.6200000000001,
+      "capacity": 60538,
+      "count": 304,
+      "avg_lights_per_km": 1.83,
+      "avg_capacity": 199.14
+    },
+    "major": {
+      "lights": 841,
+      "length": 409.72000000000014,
+      "capacity": 62627,
+      "count": 116,
+      "avg_lights_per_km": 2.05,
+      "avg_capacity": 539.89
+    }
+  },
+  "zone_stats": {
+    "residential": {
+      "intersections": 112,
+      "roads": 221,
+      "traffic_lights": 36,
+      "avg_traffic_light_delay": 0.15
+    },
+    "commercial": {
+      "intersections": 64,
+      "roads": 118,
+      "traffic_lights": 39,
+      "avg_traffic_light_delay": 0.17
+    },
+    "park": {
+      "intersections": 6,
+      "roads": 12,
+      "traffic_lights": 1,
+      "avg_traffic_light_delay": 0.19
+    },
+    "industrial": {
+      "intersections": 43,
+      "roads": 69,
+      "traffic_lights": 4,
+      "avg_traffic_light_delay": 0.2
+    }
+  },
+  "intersections_with_traffic_lights": 80
+}
