@@ -1,0 +1,9 @@
+streamlit==1.45.1
+pandas
+networkx
+scikit-learn
+matplotlib
+# add any other packages you use, e.g.:
+# numpy
+# seaborn
+# pillow
